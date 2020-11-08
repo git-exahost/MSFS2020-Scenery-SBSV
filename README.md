@@ -1,6 +1,8 @@
 # Cenário da cidade Salvador Bahia para Microsoft Flight Simulator 2020
 Cenário da cidade Salvador Bahia para Microsoft Flight Simulator 2020
 
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Img/img01.jpg?raw=true">
+
 Pontos turisticos adicionados<br>
 
 <ul>
