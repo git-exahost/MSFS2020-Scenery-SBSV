@@ -20,7 +20,7 @@ Microsoft Flight Simulator 2020
 <li>Farol da Barra</li>
 <li>Elevador Lacerda</li>
 <li>Forte São Marcelo</li>
-<li>Merado Modelo</li>
+<li>Mercado Modelo</li>
 <li>Arena Fonte Nova</li>
 <li>Navios no Porto de Salvador</li>
 </ul>
