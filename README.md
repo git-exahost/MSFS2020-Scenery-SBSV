@@ -25,7 +25,7 @@ Microsoft Flight Simulator 2020
 <li>Navios no Porto de Salvador</li>
 </ul>
 
-As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Bender e exportadas apra o Projeto do MSFS2020
+As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
 
 <p>Para baixar clique no link abaixo</p>
 
