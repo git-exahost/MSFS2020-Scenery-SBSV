@@ -1,0 +1,309 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/faroldabarra/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451965880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132492645505867865
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 1138854,
+      "date": 132492652925551399
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00055-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644755072005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00055-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644754921996
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00056-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644761202019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00056-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644761062000
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00072-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644749126846
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00072-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644748996842
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00075-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644742386830
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00075-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644742256836
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00077-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644751386845
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00077-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644751256859
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00079-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644739836850
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00079-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644739696830
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00080-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644744406843
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00080-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644744266871
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00081-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644749826849
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00081-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644749696865
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00084-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644752106858
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00084-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644751986850
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00085-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132492644745586849
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00085-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644745476874
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00086-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644743346888
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00086-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644743206831
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00089-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644737716861
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00089-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644737596837
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00090-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644736986837
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00090-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644736876843
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00094-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644762152016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00094-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644762022010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00095-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132492644738906854
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00095-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644738796867
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00097-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644755752037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00097-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644755632034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00101-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644754032030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00101-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644753892019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00102-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644748146838
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00102-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644748036837
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00106-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644747336863
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00106-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644747216846
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00107-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644750586856
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00107-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644750456840
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00108-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644756862007
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00108-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644756712014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00109-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644740626883
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00109-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644740496863
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00111-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644758491992
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00111-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644758352040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00114-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644757691994
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00114-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644757582015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00117-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644763132003
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00117-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644762991988
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00120-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644759782024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00120-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644759652012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00121-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132492644741406858
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00121-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644741276870
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00129-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132492644753006854
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/FAROLDABARRA1-00129-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132492644752866862
+    },
+    {
+      "path": "scenery/world/scenery/FAROLDABARRA_EXCLUDY.BGL",
+      "size": 922,
+      "date": 132492652925861378
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 156,
+      "date": 132492644765021993
+    }
+  ]
+}
