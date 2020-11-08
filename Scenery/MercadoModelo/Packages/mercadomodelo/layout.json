@@ -1,0 +1,3609 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mercadomodelo/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451965880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132493190025266726
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 15720056,
+      "date": 132493199351734848
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00091-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189728192142
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00091-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189728052160
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00092-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189724072137
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00092-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189723942168
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00094-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189738042166
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00094-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189737902151
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00108-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189715802136
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00108-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189715692142
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00110-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190010941407
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00110-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190010801414
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00111-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189725702149
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00111-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189725602133
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00117-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189741428435
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00117-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189741318447
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00119-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189923839053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00119-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189923699050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00120-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189726712156
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00120-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189726572132
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00124-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190005831426
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00124-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190005691408
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00125-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189721962139
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00125-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189721832127
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00126-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189742458421
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00126-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189742318463
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00134-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189926389027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00134-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189926279018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00139-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189716902126
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00139-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189716802147
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00143-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190001371399
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00143-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190001241390
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00149-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189927319033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00149-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189927209010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00150-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189929169006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00150-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189929029029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00151-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189817089032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00151-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189816999010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00158-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189721132140
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00158-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189720992150
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00163-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189806079067
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00163-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189805939023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00164-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189923229039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00164-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189923089016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00171-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190014651400
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00171-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190014501412
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00173-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189730992156
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00173-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189730852149
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00174-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190009241373
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00174-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190009131408
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00175-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189717912143
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00175-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189717812143
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00176-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189735842157
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00176-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189735702141
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00186-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189718512132
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00186-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189718402110
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00196-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189810639016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00196-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189810519024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00201-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189955469042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00201-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189955239042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00209-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189834599046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00209-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189834459034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00210-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189840579063
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00210-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189840459043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00212-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189878479053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00212-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189878349017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00213-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189850839015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00213-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189850719028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00214-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189901669047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00214-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189901529061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00217-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189887779045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00217-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189887629062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00218-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189951019040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00218-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189950899028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00219-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189772819056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00219-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189772699040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00220-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189920289032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00220-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189920169042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00225-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189902749052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00225-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189902619038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00228-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189773659016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00228-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189773519012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00234-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189776309060
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00234-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189776169010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00236-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189982911425
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00236-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189982781422
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00237-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189763168774
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00237-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189763068747
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00238-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189835289028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00238-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189835169032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00239-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189897049008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00239-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189896909061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00240-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189842929014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00240-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189842789011
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00245-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189836139069
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00245-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189835999035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00248-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189943429028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00248-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189943249006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00253-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189743338480
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00253-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189743198445
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00254-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189949159033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00254-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189949029037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00256-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189759518802
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00256-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189759378776
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00257-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189995281430
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00257-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189995161405
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00258-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189899409038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00258-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189899299056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00259-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189820009023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00259-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189819879054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00260-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189959439039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00260-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189959319028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00263-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189974949026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00263-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189974799021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00267-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189760428766
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00267-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189760318762
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00269-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189900129025
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00269-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189899969019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00279-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189944309073
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00279-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189944179028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00280-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189867059033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00280-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189866939031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00283-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189907939042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00283-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189907799017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00288-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189762478779
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00288-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189762338787
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00290-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189975819044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00290-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189975679048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00291-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189743948767
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00291-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189743843590
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00292-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189784809025
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00292-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189784689038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00293-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189960419020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00293-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189960279014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00294-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189761458766
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00294-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189761328759
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00295-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189996351415
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00295-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189996211393
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00296-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189949779051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00296-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189949639016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00301-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189839319058
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00301-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189839189007
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00308-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189770089028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00308-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189769959039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00309-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189947959035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00309-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189947819014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00310-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189952609013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00310-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189952489021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00311-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189790779045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00311-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189790659014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00312-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189748968763
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00312-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189748848753
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00313-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189966649050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00313-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189966509035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00316-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189989731422
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00316-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189989591407
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00318-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189827189041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00318-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189827079048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00322-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189967729034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00322-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189967609005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00325-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189780759038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00325-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189780629039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00337-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189890479047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00337-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189890339047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00338-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189948479038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00338-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189948359024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00341-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189786699037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00341-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189786569054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00342-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189746278750
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00342-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189746128763
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00343-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189981321385
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00343-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189981221393
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00346-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189990751397
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00346-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189990611395
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00347-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189755858748
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00347-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189755748763
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00348-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189822889041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00348-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189822749030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00356-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189880579018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00356-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189880449036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00360-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189846729052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00360-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189846589040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00361-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189912759062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00361-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189912629062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00362-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189869989029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00362-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189869859043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00365-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189829559041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00365-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189829449023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00366-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189861159062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00366-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189861019038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00367-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189881219051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00367-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189881079038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00370-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189787329018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00370-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189787179026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00371-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189961829030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00371-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189961709019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00391-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189870709026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00391-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189870569007
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00392-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189913399040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00392-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189913289032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00394-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189882069040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00394-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189881939041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00395-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189861959022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00395-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189861839042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00396-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189830459044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00396-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189830339018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00398-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189987151419
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00398-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189987031413
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00399-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189767078801
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00399-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189766948774
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00400-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189997451396
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00400-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189997311401
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00402-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189771059037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00402-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189770909018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00409-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189880029058
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00409-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189879899016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00410-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189885059022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00410-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189884899026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00411-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189864759040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00411-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189864629036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00415-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189867759033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00415-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189867619039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00416-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189908909027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00416-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189908769003
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00419-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189970349034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00419-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189970209038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00422-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189897729048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00422-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189897589038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00424-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189868319031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00424-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189868209050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00425-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189851739064
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00425-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189851619018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00426-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189844129053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00426-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189843989040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00427-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189909429016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00427-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189909309051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00428-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189971049013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00428-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189970939028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00433-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189771929062
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00433-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189771799046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00434-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189976529017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00434-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189976389044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00443-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189903489027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00443-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189903369035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00451-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189764058788
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00451-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189763938780
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00452-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189777289024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00452-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189777169029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00454-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189752008788
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00454-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189751868797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00455-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189971859042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00455-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189971739014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00457-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189795889039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00457-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189795739033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00458-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189854429055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00458-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189854299033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00459-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189869209022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00459-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189869089017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00460-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189765088773
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00460-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189764948749
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00461-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189983541389
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00461-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189983401387
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00463-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189778279039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00463-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189778159004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00464-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189972749023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00464-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189972639023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00465-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189752528791
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00465-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189752408776
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00466-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189796589026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00466-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189796459021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00471-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189888739046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00471-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189888619006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00477-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189921679031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00477-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189921569039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00483-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189858039055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00483-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189857899056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00484-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189922529043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00484-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189922399035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00490-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189779259071
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00490-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189779129006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00491-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189941029039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00491-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189940919008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00492-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189984141408
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00492-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189984001389
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00493-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189765878753
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00493-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189765768744
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00494-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189956569010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00494-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189956429041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00495-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189797389052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00495-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189797239047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00496-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189753468796
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00496-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189753368744
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00499-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189842169024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00499-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189842019063
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00501-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189882879079
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00501-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189882739005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00502-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189895159056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00502-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189895029057
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00503-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189831479022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00503-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189831379041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00504-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189871649044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00504-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189871529010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00505-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189855079006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00505-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189854959022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00507-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189914069018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00507-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189913939039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00508-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189965089037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00508-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189964969008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00510-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189756578780
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00510-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189756448765
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00511-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189991581405
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00511-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189991461381
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00512-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189946099035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00512-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189945959016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00514-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189982051384
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00514-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189981931411
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00516-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189787939012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00516-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189787809029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00518-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189876659028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00518-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189876519015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00519-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189850179033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00519-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189850069018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00521-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189757358766
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00521-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189757238785
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00531-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189862639018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00531-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189862519033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00532-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189832159014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00532-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189832019043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00540-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189768229038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00540-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189768099032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00542-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189945129042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00542-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189945019043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00543-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189781359025
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00543-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189781239036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00545-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189750108769
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00545-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189749958781
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00546-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189791829055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00546-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189791689026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00547-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189953259022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00547-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189953129061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00548-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189872899043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00548-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189872759043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00552-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189906039065
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00552-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189905909037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00555-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189848609026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00555-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189848479047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00557-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189916949023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00557-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189916739027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00560-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189891089041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00560-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189890959041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00561-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189859629010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00561-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189859509017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00566-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189917719052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00566-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189917579016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00569-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189977949039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00569-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189977809054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00571-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189769459049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00571-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189769319019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00572-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189781969065
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00572-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189781829043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00575-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189968369023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00575-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189968239042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00578-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189856619026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00578-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189856479056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00589-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189911639040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00589-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189911609011
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00601-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189739002144
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00601-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189738872118
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00602-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189720412150
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00602-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189720282132
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00604-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189729082205
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00604-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189728942126
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00605-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190000231410
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00605-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190000101372
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00608-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189801479047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00608-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189801349061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00609-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189937039032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00609-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189936929013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00614-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189803509030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00614-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189803379046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00615-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189932159017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00615-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189932019027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00617-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189816549040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00617-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189816399034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00618-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189735252121
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00618-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189735132131
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00621-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189939189032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00621-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189939049049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00622-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189924759045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00622-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189924619038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00623-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189812179080
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00623-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189811689024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00624-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189932669029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00624-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189932649020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00625-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189804399019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00625-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189804289038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00627-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189928159033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00627-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189928019023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00631-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190004941391
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00631-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190004821410
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00636-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189725052180
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00636-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189724912155
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00647-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189814779051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00647-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189814639046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00648-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189729972145
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00648-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189729812160
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00651-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189739922141
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00651-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189739782136
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00656-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190012271394
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00656-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190012141410
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00659-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189931449009
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00659-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189931409005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00672-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189925659037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00672-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189925529049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00674-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189937889023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00674-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189937759045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00675-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189802459013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00675-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189802309008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00680-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189809339064
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00680-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189809199046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00682-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189940279031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00682-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189940169036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00685-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189815409047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00685-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189815269035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00687-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189938589029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00687-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189938459034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00692-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190002861397
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00692-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190002741392
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00693-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189740553283
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00693-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189740418063
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00703-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189811279052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00703-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189811129028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00705-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189806939070
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00705-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189806819067
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00706-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189817949055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00706-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189817809028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00710-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189736892143
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00710-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189736772143
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00711-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190004051409
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00711-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190003921405
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00719-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189799949002
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00719-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189799799020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00722-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189719322130
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00722-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189719212143
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00723-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190009901424
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00723-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190009761406
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00729-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189935359036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00729-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189935239036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00735-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189934439019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00735-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189934299049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00744-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189998981390
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00744-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189998831395
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00745-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189732802154
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00745-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189732662115
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00746-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189727252146
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00746-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189727132164
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00750-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189807429028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00750-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189807319033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00755-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189800899036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00755-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189800779046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00756-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189812899025
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00756-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189812749060
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00757-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189929789038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00757-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189929649022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00761-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189808099035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00761-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189807949009
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00762-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189810029038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00762-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189809879019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00765-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189936349038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00765-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189936199030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00766-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189930779044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00766-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189930639052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00767-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189813909016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00767-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189813769038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00768-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189731842172
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00768-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189731702151
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00769-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493190002041389
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00769-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190001921396
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00772-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189722772145
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00772-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189722642157
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00773-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190006901420
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00773-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190006781426
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00774-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189733642144
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00774-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189733552137
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00778-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189805099052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00778-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189804959003
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00779-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189933609065
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00779-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189933109009
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00780-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190007721395
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00780-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190007581398
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00781-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189723482167
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00781-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189723352155
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00786-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189999581417
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00786-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189999441409
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00787-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189734502145
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00787-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189734362169
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00788-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189818869042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00788-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189818739028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00799-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493190013641407
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00799-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493190013531394
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00800-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189841179050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00800-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189841039004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00811-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189957379045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00811-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189957269026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00812-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189973389027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00812-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189973249032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00813-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189754478781
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00813-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189754358771
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00815-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189780119053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00815-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189779979045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00816-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189766428766
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00816-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189766318779
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00817-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189985001397
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00817-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189984871398
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00820-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189957979050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00820-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189957839027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00821-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189798389056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00821-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189798249007
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00822-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189755168767
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00822-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189755048765
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00825-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189942629041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00825-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189942489035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00826-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189986201422
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00826-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189986061386
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00833-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189879139019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00833-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189879009048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00834-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189821719053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00834-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189821589033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00838-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189774639046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00838-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189774499073
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00842-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189977339020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00842-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189977229013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00843-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189744968778
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00843-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189744828786
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00844-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189950469055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00844-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189950329058
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00847-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189998101377
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00847-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189997961394
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00853-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189852889044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00853-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189852749011
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00860-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189910409036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00860-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189910269031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00864-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189836789026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00864-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189836659039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00867-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189865589023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00867-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189865449044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00888-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189859009021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00888-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189858869015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00889-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189889429031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00889-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189889299012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00891-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189853439033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00891-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189853319054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00892-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189845039059
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00892-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189844919023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00893-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189911129022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00893-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189910999037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00895-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189885919044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00895-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189885809016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00896-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189898699027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00896-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189898569017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00901-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189792679043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00901-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189792549020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00902-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189750878760
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00902-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189750758765
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00903-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189969479049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00903-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189969349037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00904-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189782619032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00904-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189782479057
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00908-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189828269026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00908-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189828139046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00909-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189893679037
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00909-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189893539038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00913-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189874809028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00913-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189874669041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00914-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189826309069
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00914-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189826179053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00920-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189839989015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00920-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189839789027
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00921-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189918679039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00921-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189918539033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00922-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189875539041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00922-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189875409066
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00923-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189849639022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00923-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189849499044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00924-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189906659024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00924-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189906519050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00944-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189832779015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00944-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189832649024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00950-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189962379049
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00950-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189962269031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00952-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189746988761
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00952-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189746848789
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00956-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189992581399
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00956-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189992431387
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00957-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189757918775
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00957-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189757798783
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00958-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189823979046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00958-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189823839004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00959-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189904179044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00959-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189904039055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00964-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189947309015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00964-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189947179054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00967-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189993221383
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00967-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189993101386
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00973-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189855929048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00973-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189855789042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00977-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189883709036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00977-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189883569038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00986-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189833659009
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00986-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189833549034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00987-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189895799035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00987-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189895679039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00988-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189987961395
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00988-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189987831404
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00990-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189747678769
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00990-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189747558777
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00999-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189860229033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-00999-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189860089026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01011-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189894449030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01011-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189894409017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01012-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189884389039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01012-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189884249039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01013-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189863489055
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01013-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189863349040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01015-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189845949030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01015-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189845809061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01016-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189857259031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01016-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189857149035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01017-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189873639016
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01017-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189873479008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01018-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189954079050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01018-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189953969035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01021-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189829079054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01021-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189828949024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01022-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189864159010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01022-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189864039012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01028-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189793559051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01028-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189793419056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01034-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189789829034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01034-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189789689060
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01035-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189964529047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01035-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189964389034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01036-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189978899050
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01036-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189978769005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01037-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189745588776
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01037-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189745468765
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01039-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189919559040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01039-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189919419046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01044-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189915579022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01044-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189915469031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01064-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189794289035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01064-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189794139032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01065-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189954729014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01065-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189954608998
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01066-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189966019053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01066-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189965879042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01067-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189748278786
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01067-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189748148780
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01068-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189847799031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01068-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189847669034
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01069-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189914919032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01069-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189914799033
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01070-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189905059002
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01070-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189904949026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01071-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189824589029
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01071-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189824479013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01073-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189891919048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01073-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189891779022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01074-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189837789039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01074-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189837669031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01078-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189788849030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01078-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189788699028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01079-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189963479052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01079-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189963339042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01080-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189892829046
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01080-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189892689063
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01082-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132493189825719047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01082-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189825589051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01085-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189877519045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01085-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189877399035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01086-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189916209076
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01086-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189916069021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01087-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189838329038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01087-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189838229041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01090-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189988641398
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01090-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189988501375
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01092-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189783769036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01092-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189783639023
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01097-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189794839045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01097-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189794739028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01099-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189872259013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01099-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189872169008
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01110-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189952089031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01110-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189951949042
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01111-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189775459036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01111-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189775319069
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01112-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189758798796
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01112-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189758658760
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01113-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189994281405
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01113-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189994151398
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01114-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189785699056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01114-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189785569014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01115-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189961179044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01115-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189961039052
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01116-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189974329036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01116-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189974189009
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01132-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189886969035
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01132-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189886839020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01133-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189866569015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01133-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189866439040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01138-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189958649020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01138-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189958499011
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01139-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189799209032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01139-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189799079054
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01150-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132493189901079043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01150-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189900949005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01151-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132493189820619038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/MERCADOMODELO2-01151-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132493189820489052
+    },
+    {
+      "path": "scenery/world/scnery/MERCADOMODELO_VEGETATION.BGL",
+      "size": 1401,
+      "date": 132493199352214855
+    },
+    {
+      "path": "scenery/world/scnery/objects.bgl",
+      "size": 156,
+      "date": 132493199352064848
+    }
+  ]
+}
