@@ -40,7 +40,7 @@ Microsoft Flight Simulator 2020
 <p>Geralmente a pasta Community se encontra em:</p>
 
 ```sh
-<p>C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community</p>
+C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
   
 
