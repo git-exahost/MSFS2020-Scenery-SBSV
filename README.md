@@ -1,6 +1,7 @@
 # Cenário Salvador Bahia - Microsoft Flight Simulator 2020
 
-[![Build Status](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.2/Scenery_Salvador_0.0.2.zip)]
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
+
 
 Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
@@ -48,7 +49,7 @@ C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightS
   
 
 ## OBS
-As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
+> As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
 
 
 
