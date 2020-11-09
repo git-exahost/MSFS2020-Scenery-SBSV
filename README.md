@@ -45,6 +45,14 @@ Microsoft Flight Simulator 2020
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
   
+## Entendendo o Projeto
+
+1 - Na pasta Blender estão todas as imagems do Blender, a partir destas imagens exportamos para pasta Scenery_Project
+2 - Na pasta Scenery_Project estão todos os pontos turisticos, cada pasta com seu ponto turistico, assim editamos os pontos turisticos intependnte, esse peojeto é aberto no MFFS2020 e lá é feito o builder
+3 - Na pasta Scenery_Project/Packages se encontra o cenário gerado pela builder ja com o ponto turistico funcionando
+4 - Na pasta Scenery_Salvador está o projeto final, nela adicionamos todos os cenarios que estão na nas pastas em Scenery_Project
+
+> Retiramos o conteudo das pastas "scenery/mycompany" e "scenery/world/scenery" e movemos para "Scenery_Salvador/scenery" e renomeamos o "mycompany" e "world" para o nome do cenário em seguida adicionamos as respectivas linhas para o layout.json
 
 ## OBS
 > As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
