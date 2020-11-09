@@ -34,8 +34,9 @@ Microsoft Flight Simulator 2020
 <a href="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.2/Scenery_Salvador_0.0.2.zip"> Cenário Salvador Download</a>
 
 <p>Geralmente a pasta Community se encontra em:</p>
+```powershell
 <p>C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community</p>
-
+```
    
 
 
