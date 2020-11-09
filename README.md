@@ -1,4 +1,7 @@
 # Cenário Salvador Bahia - Microsoft Flight Simulator 2020
+
+[![Build Status](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.2/Scenery_Salvador_0.0.2.zip)]
+
 Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
 
