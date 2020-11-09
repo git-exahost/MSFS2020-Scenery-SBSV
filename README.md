@@ -14,9 +14,9 @@ Microsoft Flight Simulator 2020
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg?raw=true">
 </figure>
 <br>
-<p>
-<h2>Pontos turisticos adicionados</h2><br>
-</p>
+
+
+## INSTALANDO
 
 <ul>
 <li>Farol da Barra</li>
