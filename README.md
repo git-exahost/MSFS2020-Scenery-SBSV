@@ -5,13 +5,13 @@ Microsoft Flight Simulator 2020
 <p>Ultima atualização 09/11/2020</p>
 
 <figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Img/img01.jpg?raw=true">
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg">
 </figure>
 <figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Img/img02.jpg?raw=true">
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg?raw=true">
 </figure>
 <figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Img/img03.jpg?raw=true">
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg?raw=true">
 </figure>
 <br>
 <p>
