@@ -1,7 +1,5 @@
 # Cenário Salvador Bahia - Microsoft Flight Simulator 2020
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
-
 
 Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
@@ -31,7 +29,7 @@ Microsoft Flight Simulator 2020
 <li>Hotel Pestana</li>
 </ul>
 
-## Nota da proxima verSãp
+## Nota da proxima versão
 - Adicionando iluminação noturna
 - Tratamento das imagens e correção de cores
 
