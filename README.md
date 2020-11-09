@@ -2,6 +2,8 @@
 Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
 
+<p>Ultima atualização 09/11/2020</p>
+
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Img/img01.jpg?raw=true">
 </figure>
@@ -23,6 +25,7 @@ Microsoft Flight Simulator 2020
 <li>Mercado Modelo</li>
 <li>Arena Fonte Nova</li>
 <li>Navios no Porto de Salvador</li>
+<li>Hotel Pestana</li>
 </ul>
 
 As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
@@ -30,5 +33,5 @@ As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratada
 <p>Para baixar clique no link abaixo</p>
 
 <p>
-    <a href="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/raw/main/Scenery_Release_ZIP/Scenery_Salvador_0.01.zip"> Cenário Salvador Download</a>
+    <a href="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/raw/main/Scenery_Release_ZIP/Scenery_Salvador_0.02.zip"> Cenário Salvador Download</a>
 </p>
