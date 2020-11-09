@@ -28,7 +28,10 @@ Microsoft Flight Simulator 2020
 <li>Hotel Pestana</li>
 </ul>
 
+<h2>Instalando</h2>
+<p>Para instalar, baixe o projeto e copie a pasta Scenery_Salvador para dentro de Community</p>
+
 As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
 
-<p>Para instalar, baixe o projeto e copie a pasta Scenery_Salvador para dentro de Community</p>
+
 
