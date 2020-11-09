@@ -15,7 +15,7 @@ Microsoft Flight Simulator 2020
 </figure>
 <br>
 <p>
-<b>Pontos turisticos adicionados</b><br>
+<h2>Pontos turisticos adicionados</h2><br>
 </p>
 
 <ul>
