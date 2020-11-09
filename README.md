@@ -29,7 +29,9 @@ Microsoft Flight Simulator 2020
 </ul>
 
 <h2>Instalando</h2>
-<p>Para instalar, baixe o projeto e copie a pasta Scenery_Salvador para dentro de Community</p>
+<p>Para instalar, baixe o projeto e copie a pasta <b>Scenery_Salvador</b> para dentro da pasta Community</p>
+<p>Geralmente a pasta Com se encontra em:</p>
+<p>C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community</p>
 
 As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
 
