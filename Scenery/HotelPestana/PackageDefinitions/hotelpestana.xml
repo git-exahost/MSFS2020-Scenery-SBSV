@@ -1,0 +1,39 @@
+<AssetPackage Name="hotelpestana" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title/>
+		<Manufacturer/>
+		<Creator/>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\hotelpestana\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\hotelpestana</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery\mycompany\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="myscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>scenery\world/scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

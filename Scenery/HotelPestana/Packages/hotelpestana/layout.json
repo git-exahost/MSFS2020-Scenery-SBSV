@@ -1,0 +1,3629 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/hotelpestana/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132451965880000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132494228043340857
+    },
+    {
+      "path": "scenery/mycompany/modelLib.BGL",
+      "size": 19673666,
+      "date": 132494183754771868
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00000-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227991661076
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00000-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227991591043
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00001-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228018390857
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00001-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228018310811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00002-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228020150950
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00002-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228020070812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00003-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227984340519
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00003-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227984240529
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00004-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228017621002
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00004-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228017551335
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00005-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227989490519
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00005-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227989420645
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00006-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227987050826
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00006-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227986980649
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00007-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228022640813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00007-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228022571290
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00008-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228036341045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00008-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228036270999
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00009-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227963015294
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00009-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227962935290
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00010-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227967475280
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00010-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227967405280
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00011-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228038740986
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00011-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228038681324
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00012-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228031030859
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00012-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228030951342
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00013-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227969535683
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00013-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227969465682
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00014-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228035850816
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00014-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228035790798
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00015-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227966045293
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00015-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227965975285
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00016-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227972026463
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00016-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227971966846
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00017-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228033831004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00017-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228033761364
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00018-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228014460801
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00018-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228014391319
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00019-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227990580814
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00019-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227990511038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00020-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228039020967
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00020-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228038950938
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00021-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227967765294
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00021-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227967695279
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00022-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227969795671
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00022-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227969725680
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00023-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228031290795
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00023-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228031220815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00024-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227966325436
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00024-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227966255288
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00025-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228036111040
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00025-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228036040995
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00026-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228034081369
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00026-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228034021314
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00027-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227972285963
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00027-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227972216809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00028-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227990800534
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00028-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227990740526
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00029-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228014720809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00029-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228014650810
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00030-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228018680935
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00030-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228018610797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00037-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227987310656
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00037-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227987241018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00038-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227963285263
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00038-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227963215292
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00040-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227966855286
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00040-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227966795286
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00041-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228039961252
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00041-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228039890962
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00042-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228032620811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00042-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228032550798
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00043-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227969265869
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00043-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227969185288
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00044-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228036630996
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00044-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228036571005
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00046-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227970366544
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00046-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227970296467
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00049-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227989780511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00049-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227989710496
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00050-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227992560514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00050-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227992500491
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00068-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227965755291
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00068-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227965685281
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00071-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227967195304
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00071-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227967115418
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00073-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228032951250
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00073-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228032870793
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00074-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227963645864
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00074-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227963565835
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00075-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228036940952
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00075-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228036870945
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00077-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227970756317
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00077-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227970686307
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00078-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227990330654
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00078-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227990260662
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00085-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228034330886
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00085-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228034261296
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00086-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228037250798
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00086-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228037180998
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00088-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227986790670
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00088-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227986720660
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00090-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228019820861
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00090-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228019740820
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00091-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227985940663
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00091-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227985871073
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00095-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228021021002
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00095-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228020940813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00096-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228014190955
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00096-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228014110813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00099-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108433412160
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00099-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108433282162
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00100-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228039351092
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00100-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228039280855
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00101-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227968095283
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00101-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227968025287
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00102-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227970085689
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00102-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227970005661
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00103-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228031540798
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00103-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228031480808
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00106-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228033290973
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00106-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228033211310
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00107-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227971266322
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00107-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227971206294
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00108-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227991390512
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00108-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227991320651
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00109-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228015750821
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00109-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228015681292
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00113-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228020401068
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00113-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228020330809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00114-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227988420654
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00114-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227988351017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00115-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228016340824
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00115-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228016270971
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00116-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228022380969
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00116-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228022320812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00117-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227986481032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00117-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227986410505
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00118-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227963925461
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00118-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227963855287
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00121-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228018930815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00121-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228018860820
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00122-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228020691011
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00122-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228020621322
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00123-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227984590551
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00123-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227984521002
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00124-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228016670849
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00124-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228016590960
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00125-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227988730994
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00125-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227988671017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00128-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228037530853
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00128-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228037460803
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00129-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227964205274
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00129-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227964125296
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00130-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108259204972
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00130-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108259084995
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00131-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228039650968
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00131-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228039571339
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00132-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228031790994
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00132-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228031721356
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00135-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227965385319
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00135-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227965315290
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00136-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227971496290
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00136-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227971426313
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00138-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228016060797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00138-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228015990799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00140-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228017870975
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00140-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228017800820
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00141-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227991930511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00141-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227991860498
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00142-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227984910645
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00142-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227984841004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00143-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228019210842
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00143-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228019110943
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00144-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227991070695
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00144-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227991000495
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00145-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228014970952
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00145-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228014881294
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00146-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228021340828
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00146-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228021260811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00147-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227987621018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00147-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227987551039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00148-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227965045315
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00148-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227964975299
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00149-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228035151342
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00149-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228035080803
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00151-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227966605294
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00151-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227966525442
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00152-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227968365285
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00152-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227968285295
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00153-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228032060804
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00153-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228031990807
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00154-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227964545446
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00154-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227964465287
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00155-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228037790814
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00155-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228037730804
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00156-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228034580810
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00156-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228034520819
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00157-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227971026520
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00157-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227970956310
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00158-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227988970611
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00158-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227988900502
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00159-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228017051004
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00159-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228016980811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00163-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227968685290
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00163-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227968605279
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00164-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228038120807
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00164-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228038020803
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00168-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228017340961
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00168-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228017260994
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00169-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227989220518
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00169-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227989150711
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00170-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227992340734
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00170-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227992250759
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00173-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227985180821
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00173-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227985110663
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00174-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228015220845
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00174-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228015150819
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00176-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227987921022
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00176-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227987850531
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00177-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228021610807
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00177-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228021550790
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00178-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228035590810
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00178-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228035520812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00180-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227985490511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00180-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227985420653
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00181-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228019480828
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00181-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228019400801
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00182-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228018130980
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00182-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228018061364
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00184-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228021871020
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00184-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228021790800
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00185-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227988141032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00185-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227988080515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00187-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228015500805
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00187-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228015430816
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00188-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228033550818
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00188-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228033481329
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00189-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227971776502
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00189-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227971706305
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00190-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227968975428
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00190-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227968895300
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00191-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228032350816
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00191-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228032280821
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00194-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228034840807
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00194-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228034781319
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00195-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108243108048
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00195-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108242968047
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00196-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227964795285
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00196-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227964725283
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00197-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228038491369
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00197-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228038410803
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00198-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228022151293
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00198-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228022080812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00199-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227986170508
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00199-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227986111017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00200-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227996210654
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00200-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227996140736
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00203-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108284875333
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00203-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108284745321
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00204-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108387038291
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00204-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108386938281
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00205-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108301855760
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00205-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108301715733
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00206-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108272325339
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00206-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108272185329
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00207-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228006080703
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00207-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228006020691
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00209-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227980140514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00209-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227980080515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00212-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228026521205
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00212-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228026451325
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00213-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227974350551
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00213-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227974281032
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00214-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228023520990
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00214-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228023450824
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00215-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227981421053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00215-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227981350799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00216-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227979060504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00216-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227978990521
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00218-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228006890689
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00218-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228006820727
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00219-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227994100533
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00219-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227994030702
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00220-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228025170811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00220-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228025100811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00221-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227983511127
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00221-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227983450501
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00222-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108237548058
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00222-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108237418038
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00223-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228026781051
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00223-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228026710794
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00224-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227981720733
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00224-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227981650504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00226-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228029930850
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00226-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228029860812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00227-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227979370519
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00227-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227979290512
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00228-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108317515759
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00228-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108317385754
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00232-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227998050516
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00232-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227997981019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00233-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228003911018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00233-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228003841080
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00235-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108387938320
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00235-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108387808296
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00236-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228006390705
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00236-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228006331369
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00237-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228001070711
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00237-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228001010495
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00238-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227980390506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00238-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227980320966
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00244-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228024040813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00244-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228023971280
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00245-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227979660512
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00245-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227979590519
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00246-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227975921030
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00246-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227975860500
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00247-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228030220878
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00247-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228030150806
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00248-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228010310954
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00248-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228010241339
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00249-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108304145764
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00249-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108304005744
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00250-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227996700515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00250-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227996641056
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00251-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228012560890
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00251-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228012470800
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00254-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228007180641
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00254-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228007121015
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00255-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227994380649
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00255-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227994310511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00256-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228001830510
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00256-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228001740656
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00259-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227982210515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00259-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227982150513
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00260-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228012790813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00260-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228012730799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00261-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227996970507
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00261-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227996910504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00262-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227999870509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00262-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227999800504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00265-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228007440645
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00265-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228007370506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00266-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228004900504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00266-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228004840507
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00268-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108201142954
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00268-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108201032916
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00269-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108478567385
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00269-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108478447354
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00270-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108470777332
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00270-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108470667342
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00271-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227982970514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00271-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227982910511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00272-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227973280521
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00272-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227973215819
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00273-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228029091223
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00273-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228029031377
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00274-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227979900526
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00274-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227979830506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00275-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108485657368
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00275-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108485517379
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00276-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108455352077
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00276-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108455222081
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00278-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227993310706
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00278-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227993241024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00279-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228010571007
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00279-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228010511315
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00280-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228029360808
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00280-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228029290816
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00281-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227973570510
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00281-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227973500568
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00283-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228025781337
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00283-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228025700793
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00284-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227976160760
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00284-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227976090503
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00287-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108199272895
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00287-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108199142909
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00288-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108271615335
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00288-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108271495330
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00289-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108400594421
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00289-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108400474425
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00290-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108407494779
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00290-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108407394797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00291-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108290515344
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00291-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108290375333
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00292-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227997200507
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00292-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227997131026
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00293-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228013171353
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00293-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228013100817
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00294-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228002070658
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00294-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228002000493
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00296-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228007730498
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00296-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228007661013
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00297-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227994610710
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00297-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227994550717
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00298-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227978760511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00298-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227978700510
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00299-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228029651219
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00299-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228029570799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00300-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228025450961
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00300-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228025380811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00301-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227983980516
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00301-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227983911025
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00302-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227975140511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00302-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227975071024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00303-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228027570992
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00303-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228027500826
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00304-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227981180690
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00304-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227981120503
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00309-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228008410936
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00309-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228008341019
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00311-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108293625760
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00311-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108293495796
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00312-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227998860549
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00312-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227998790960
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00313-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228004660506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00313-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228004590981
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00316-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228005861059
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00316-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228005800527
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00317-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228000100494
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00317-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228000031018
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00318-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227980960508
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00318-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227980890501
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00321-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228013680817
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00321-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228013611351
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00324-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228009820814
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00324-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228009750820
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00325-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227993081003
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00325-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227993010680
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00326-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228000330926
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00326-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228000270743
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00332-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228027830811
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00332-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228027770795
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00333-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227975430511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00333-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227975371085
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00335-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108207312912
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00335-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108207202887
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00336-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227978270514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00336-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227978200509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00338-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108380303120
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00338-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108380203126
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00339-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227995110700
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00339-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227995050704
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00340-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228011510808
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00340-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228011440825
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00342-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227999380712
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00342-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227999310724
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00343-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228002830744
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00343-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228002760507
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00344-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227995370518
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00344-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227995310699
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00345-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228008670812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00345-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228008610991
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00346-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108395983867
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00346-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108395883857
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00347-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108278405328
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00347-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108278295333
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00349-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228022950969
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00349-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228022881345
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00350-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132494108474557360
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00350-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108474437375
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00351-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108187116643
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00351-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108187026624
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00354-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108193792369
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00354-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108193672343
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00355-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108482957380
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00355-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108482827372
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00357-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227976970515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00357-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227976910574
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00358-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227992800500
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00358-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227992730969
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00359-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228009280816
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00359-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228009211230
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00360-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108187746639
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00360-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108187636627
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00361-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132494108475727359
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00361-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108475597372
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00362-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228028350810
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00362-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228028290799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00364-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228024930809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00364-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228024860815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00368-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228009560814
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00368-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228009491238
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00369-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132494108309725749
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00369-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108309605758
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00370-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227996470506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00370-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227996400515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00371-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228011750826
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00371-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228011681299
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00372-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228003110515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00372-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228003041081
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00376-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228002370657
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00376-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228002270513
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00377-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108396823870
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00377-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108396693911
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00378-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228023280924
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00378-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228023210827
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00379-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132494108205892914
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00379-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108205752930
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00382-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228011990805
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00382-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228011930815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00386-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227995631053
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00386-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227995560498
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00387-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494228009010809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00387-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228008940815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00388-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108451791624
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00388-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108451671650
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00389-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108223402923
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00389-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108223272930
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00390-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227972545967
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00390-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227972476352
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00391-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228028590808
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00391-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228028530799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00393-TEXTURE.PNG.DDS",
+      "size": 174904,
+      "date": 132494108188889797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00393-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108188754156
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00394-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108452261667
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00394-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108452171632
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00395-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227977220690
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00395-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227977160509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00396-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227980700501
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00396-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227980621059
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00398-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108405484789
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00398-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108405364791
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00399-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228000850569
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00399-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228000780511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00400-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228005140512
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00400-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228005070495
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00403-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108384593134
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00403-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108384463153
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00405-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108408354804
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00405-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108408224797
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00406-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228013440812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00406-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228013380812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00407-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227997570729
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00407-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227997500508
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00408-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108240238068
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00408-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108240098070
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00409-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228026270812
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00409-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228026210818
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00410-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228030500819
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00410-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228030430794
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00411-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227976410509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00411-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227976350505
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00413-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228024370804
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00413-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228024291315
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00414-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227973810514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00414-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227973740511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00416-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108472867387
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00416-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108472737356
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00417-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108185866626
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00417-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108185776607
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00419-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228004411061
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00419-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228004351012
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00420-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227976710637
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00420-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227976640526
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00421-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228030740964
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00421-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228030671357
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00422-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228024620795
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00422-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228024550798
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00425-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108227522916
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00425-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108227372938
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00426-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227983250711
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00426-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227983170506
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00427-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228026031284
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00427-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228025971314
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00428-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108414544788
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00428-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108414454763
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00429-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227998620574
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00429-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227998550700
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00431-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228005361101
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00431-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228005300505
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00432-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228008160516
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00432-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228008091024
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00433-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227994880529
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00433-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227994810648
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00436-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227997790704
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00436-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227997731021
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00437-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108371597527
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00437-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108371497527
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00438-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108463992113
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00438-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108463882084
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00439-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227974070509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00439-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227974010511
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00441-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108217822925
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00441-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108217672921
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00442-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108204072945
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00442-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108203942931
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00444-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227974640521
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00444-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227974570536
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00445-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108461852076
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00445-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108461722075
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00447-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227983740728
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00447-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227983671036
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00450-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108403174405
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00450-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108403054424
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00451-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228001320509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00451-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228001251058
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00453-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228010811028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00453-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228010751000
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00454-TEXTURE.PNG.DDS",
+      "size": 1048704,
+      "date": 132494227998391084
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00454-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227998310669
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00455-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108416322178
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00455-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108416192160
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00458-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108228492937
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00458-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108228342932
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00461-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228006641031
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00461-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228006580695
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00462-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228011041017
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00462-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228010981319
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00463-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227993560746
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00463-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227993490700
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00465-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108287515329
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00465-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108287385312
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00467-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108376103154
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00467-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108375983129
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00469-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227973035973
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00469-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227972956362
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00470-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108218782928
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00470-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108218632943
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00471-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108446981624
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00471-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108446861620
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00472-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228023791350
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00472-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228023730801
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00473-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227981950855
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00473-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227981880656
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00474-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228027030813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00474-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228026970803
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00478-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228003571010
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00478-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228003511006
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00479-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108289275354
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00479-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108289155355
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00482-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108447801627
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00482-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108447671637
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00486-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227974900507
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00486-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227974830504
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00489-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108299315770
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00489-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108299195739
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00490-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227993790710
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00490-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227993730699
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00491-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228011280851
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00491-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228011210805
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00493-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228001560509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00493-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228001500532
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00494-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108376753152
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00494-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108376643138
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00496-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108288355323
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00496-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108288235326
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00497-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228004180663
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00497-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228004110515
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00498-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108469987360
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00498-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108469847356
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00500-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108210082919
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00500-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108209932927
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00501-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108453192084
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00501-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108453062081
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00506-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494227982481131
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00506-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227982410514
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00507-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108476527364
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00507-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108476397374
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00511-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228005620801
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00511-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228005550976
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00514-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108411154799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00514-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108411044771
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00515-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227999621039
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00515-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227999560700
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00516-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108301025748
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00516-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108300915752
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00521-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228002591014
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00521-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228002530685
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00522-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227995890525
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00522-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227995831028
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00526-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228012240957
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00526-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228012170809
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00529-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228027300938
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00529-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228027230799
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00531-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227977920673
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00531-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227977850699
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00534-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227972776298
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00534-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227972716331
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00535-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228028830825
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00535-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228028761323
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00536-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108477837372
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00536-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108477707348
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00537-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227982700503
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00537-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227982630510
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00538-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227999110815
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00538-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227999040703
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00540-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108276955333
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00540-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108276835348
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00542-TEXTURE.PNG.DDS",
+      "size": 524416,
+      "date": 132494228010070813
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00542-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228010011344
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00543-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108307240552
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00543-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108307140540
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00547-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228013940945
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00547-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228013870804
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00551-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108449681618
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00551-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108449581632
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00558-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228003350521
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00558-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228003291044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00560-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108450591638
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00560-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108450461621
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00561-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108221782922
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00561-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108221662951
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00564-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227975661045
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00564-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227975590522
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00565-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228028090953
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00565-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228028021318
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00568-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108291415759
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00568-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108291285745
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00571-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494228000590509
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00571-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494228000521041
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00572-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108308005738
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00572-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108307885731
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00575-TEXTURE.PNG.DDS",
+      "size": 87528,
+      "date": 132494108412594784
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00575-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108412484791
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00592-TEXTURE.PNG.DDS",
+      "size": 262272,
+      "date": 132494227978510543
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00592-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494227978441116
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00597-TEXTURE.PNG.DDS",
+      "size": 43832,
+      "date": 132494108235818044
+    },
+    {
+      "path": "scenery/mycompany/TEXTURE/HOTELPESTANA1-00597-TEXTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132494108235678028
+    },
+    {
+      "path": "scenery/world/scenery/HOTELPESTANA_POLYGON.BGL",
+      "size": 2081,
+      "date": 132494248471652833
+    },
+    {
+      "path": "scenery/world/scenery/objects.bgl",
+      "size": 2140,
+      "date": 132494248471152486
+    }
+  ]
+}
