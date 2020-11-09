@@ -34,14 +34,14 @@ Microsoft Flight Simulator 2020
 <a href="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.2/Scenery_Salvador_0.0.2.zip"> Cenário Salvador Download</a>
 
 <p>Geralmente a pasta Community se encontra em:</p>
-```powershell
+'''powershell
 <p>C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community</p>
-```
+'''
    
 
 
 ## Proxima versão
-<p>Estou adicionando iluminação noturna e correção de cores para os pontos turisticuos no cenario atual</p>
+- <p>Estou adicionando iluminação noturna e correção de cores para os pontos turisticuos no cenario atual</p>
 
 ## OBS
 As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
