@@ -30,8 +30,5 @@ Microsoft Flight Simulator 2020
 
 As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
 
-<p>Para baixar clique no link abaixo</p>
+<p>Para instalar, baixe o projeto e copie a pasta Scenery_Salvador para dentro de Community</p>
 
-<p>
-    <a href="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/raw/main/Scenery_Release_ZIP/Scenery_Salvador_0.02.zip"> Cenário Salvador Download</a>
-</p>
