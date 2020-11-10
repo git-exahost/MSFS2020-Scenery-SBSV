@@ -14637,6 +14637,19 @@
       "path": "scenery/HotelPestana_world/scenery/objects.bgl",
       "size": 2140,
       "date": 132494248471152486
+    },
+    {
+      "commentary": "Inicio, Iluminação do Cenário"
+    },
+    {
+      "path": "scenery/Iluminacao/modelLib.BGL",
+      "size": 56,
+      "date": 132494429468855843
+    },
+    {
+      "path": "scenery/Iluminacao_world/scenery/objects.bgl",
+      "size": 3436,
+      "date": 132494429469296262
     }
   ]
 }
