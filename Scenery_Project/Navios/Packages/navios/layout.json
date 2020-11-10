@@ -7,2143 +7,2143 @@
     },
     {
       "path": "manifest.json",
-      "size": 271,
-      "date": 132493383835009460
+      "size": 272,
+      "date": 132495059205019856
     },
     {
       "path": "scenery/mycompany/modelLib.BGL",
       "size": 17354452,
-      "date": 132493383833689357
+      "date": 132495061064259652
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00049-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378159103920
+      "size": 524416,
+      "date": 132495061030820225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00049-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378158883925
+      "date": 132495061030790228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00069-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378092145051
+      "size": 1048704,
+      "date": 132495061037000221
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00069-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378091925090
+      "date": 132495061036950217
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00070-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378083515044
+      "size": 262272,
+      "date": 132495061036100210
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00070-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378083335023
+      "date": 132495061036060232
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00073-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378105323911
+      "size": 524416,
+      "date": 132495061035560223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00073-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378105113905
+      "date": 132495061035520211
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00077-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378175609074
+      "size": 2097280,
+      "date": 132495061032980222
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00077-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378175389086
+      "date": 132495061032920218
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00078-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378160273907
+      "size": 524416,
+      "date": 132495061030980230
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00078-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378160063916
+      "date": 132495061030940206
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00080-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378107603899
+      "size": 2097280,
+      "date": 132495061035820226
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00080-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378107383920
+      "date": 132495061035770225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00081-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378183399236
+      "size": 2097280,
+      "date": 132495061033970234
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00081-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378183199285
+      "date": 132495061033920210
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00082-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378185709272
+      "size": 1048704,
+      "date": 132495061031590228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00082-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378185499269
+      "date": 132495061031550221
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00083-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378084845050
+      "size": 524416,
+      "date": 132495061036260227
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00083-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378084665021
+      "date": 132495061036210215
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00089-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378117123906
+      "size": 524416,
+      "date": 132495061039871744
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00089-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378116893920
+      "date": 132495061039831410
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00090-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378125513919
+      "size": 262272,
+      "date": 132495061040994155
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00090-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378125323919
+      "date": 132495061040954572
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00106-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378097675065
+      "size": 262272,
+      "date": 132495061034580228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00106-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378097435087
+      "date": 132495061034540224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00108-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378154713900
+      "size": 524416,
+      "date": 132495061030290224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00108-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378154513934
+      "date": 132495061030240208
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00109-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378136143891
+      "size": 524416,
+      "date": 132495061038958057
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00109-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378135923888
+      "date": 132495061038918482
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00110-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378126483930
+      "size": 262272,
+      "date": 132495061038050228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00110-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378126253922
+      "date": 132495061038010225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00112-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378166939047
+      "size": 524416,
+      "date": 132495061029820219
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00112-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378166749088
+      "date": 132495061029780208
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00113-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378120233886
+      "size": 262272,
+      "date": 132495061040309799
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00113-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378120003940
+      "date": 132495061040269493
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00114-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378157893902
+      "size": 2097280,
+      "date": 132495061030660425
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00114-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378157673886
+      "date": 132495061030620210
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00115-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378130473910
+      "size": 524416,
+      "date": 132495061038658078
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00115-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378130263901
+      "date": 132495061038607990
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00116-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378115673921
+      "size": 262272,
+      "date": 132495061039568197
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00116-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378115453912
+      "date": 132495061039528171
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00120-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378153473918
+      "size": 262272,
+      "date": 132495061030140223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00120-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378153253919
+      "date": 132495061030100211
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00122-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378122363947
+      "size": 2097280,
+      "date": 132495061040547890
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00122-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378122133887
+      "date": 132495061040498501
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00123-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378168659037
+      "size": 1048704,
+      "date": 132495061030010224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00123-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378168399050
+      "date": 132495061029960208
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00124-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378131623915
+      "size": 524416,
+      "date": 132495061038808083
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00124-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378131403919
+      "date": 132495061038768496
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00129-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378188159265
+      "size": 524416,
+      "date": 132495061032390224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00129-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378187939272
+      "date": 132495061032350207
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00130-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378184209261
+      "size": 262272,
+      "date": 132495061031410220
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00130-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378184029224
+      "date": 132495061031350227
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00136-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378172249069
+      "size": 1048704,
+      "date": 132495061032730223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00136-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378172029052
+      "date": 132495061032690207
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00137-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378098755038
+      "size": 262272,
+      "date": 132495061034720237
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00137-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378098525084
+      "date": 132495061034680253
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00138-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378137333951
+      "size": 524416,
+      "date": 132495061039108061
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00138-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378137103897
+      "date": 132495061039068475
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00139-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378155673887
+      "size": 262272,
+      "date": 132495061030420222
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00139-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378155473932
+      "date": 132495061030380233
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00145-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378134953906
+      "size": 2097280,
+      "date": 132495061039348534
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00145-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378134733924
+      "date": 132495061039298727
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00146-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378118053911
+      "size": 262272,
+      "date": 132495061040019283
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00146-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378117833889
+      "date": 132495061039979996
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00148-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378186919250
+      "size": 524416,
+      "date": 132495061031750232
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00148-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378186709240
+      "date": 132495061031710208
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00149-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378090205043
+      "size": 262272,
+      "date": 132495061036810223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00149-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378089985063
+      "date": 132495061036760223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00153-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378101013923
+      "size": 1048704,
+      "date": 132495061034920228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00153-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378100803905
+      "date": 132495061034880224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00156-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378093675045
+      "size": 524416,
+      "date": 132495061034130226
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00156-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378093465050
+      "date": 132495061034090218
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00157-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378176559037
+      "size": 262272,
+      "date": 132495061033120234
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00157-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378176349068
+      "date": 132495061033080217
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00162-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378102573917
+      "size": 1048704,
+      "date": 132495061035110225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00162-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378102343943
+      "date": 132495061035070215
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00163-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378181139267
+      "size": 262272,
+      "date": 132495061033720225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00163-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378180939286
+      "date": 132495061033670228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00164-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378087515031
+      "size": 2097280,
+      "date": 132495061036500226
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00164-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378087305041
+      "date": 132495061036450213
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00165-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378190212630
+      "size": 2097280,
+      "date": 132495061031990229
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00165-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378190012637
+      "date": 132495061031940206
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00166-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378178009090
+      "size": 1048704,
+      "date": 132495061033310226
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00166-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378177799059
+      "date": 132495061033260223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00167-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378095165116
+      "size": 524416,
+      "date": 132495061034290223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00167-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378094935061
+      "date": 132495061034250207
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00168-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378132683891
+      "size": 262272,
+      "date": 132495061038490246
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00168-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378132483942
+      "date": 132495061038450234
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00171-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378127733924
+      "size": 524416,
+      "date": 132495061038210225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00171-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378127503904
+      "date": 132495061038170223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00172-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378123313901
+      "size": 262272,
+      "date": 132495061040694845
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00172-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378123123924
+      "date": 132495061040658246
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00176-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378161733933
+      "size": 1048704,
+      "date": 132495061028990221
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00176-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378161513936
+      "date": 132495061028950583
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00180-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378165669041
+      "size": 1048704,
+      "date": 132495061029670223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00180-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378165479021
+      "date": 132495061029630225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00181-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378124543970
+      "size": 524416,
+      "date": 132495061040864549
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00181-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378124313919
+      "date": 132495061040824650
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00182-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378128603904
+      "size": 262272,
+      "date": 132495061038350241
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00182-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378128383898
+      "date": 132495061038310239
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00184-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378119243911
+      "size": 524416,
+      "date": 132495061040169450
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00184-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378119013921
+      "date": 132495061040129470
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00185-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378162673910
+      "size": 262272,
+      "date": 132495061029310217
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00185-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378162473913
+      "date": 132495061029250240
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00189-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378173439034
+      "size": 524416,
+      "date": 132495061032540227
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00189-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378173239058
+      "date": 132495061032500210
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00191-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378104123889
+      "size": 1048704,
+      "date": 132495061035410229
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00191-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378103913879
+      "date": 132495061035360223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00192-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378082525032
+      "size": 262272,
+      "date": 132495061035960217
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00192-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378082375028
+      "date": 132495061035920233
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00194-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378096365033
+      "size": 262272,
+      "date": 132495061034440228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00194-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378096165028
+      "date": 132495061034400212
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00195-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378180239271
+      "size": 2097280,
+      "date": 132495061033570233
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00195-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378180019260
+      "date": 132495061033520222
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00196-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378192152615
+      "size": 2097280,
+      "date": 132495061032240228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00196-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378191962625
+      "date": 132495061032190207
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00197-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378088955010
+      "size": 524416,
+      "date": 132495061036660228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00197-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378088735030
+      "date": 132495061036620212
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00198-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378114613892
+      "size": 262272,
+      "date": 132495061039716262
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00198-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378114383889
+      "date": 132495061039676602
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00199-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378164159089
+      "size": 1048704,
+      "date": 132495061029480225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00199-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378163949064
+      "date": 132495061029440225
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00203-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378145063891
+      "size": 262272,
+      "date": 132495061028684839
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00203-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378144833956
+      "date": 132495061028646805
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00204-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378140903943
+      "size": 2097280,
+      "date": 132495061041725919
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00204-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378140683898
+      "date": 132495061041686342
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00205-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378151603928
+      "size": 524416,
+      "date": 132495061028110601
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00205-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378151373952
+      "date": 132495061028070518
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00206-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378144053902
+      "size": 262272,
+      "date": 132495061028544521
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00206-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378143843905
+      "date": 132495061028500974
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00207-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378142013918
+      "size": 524416,
+      "date": 132495061041144152
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00207-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378141793917
+      "date": 132495061041104776
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00208-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378112093923
+      "size": 262272,
+      "date": 132495061037410228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00208-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378111873970
+      "date": 132495061037370212
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00212-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378109933929
+      "size": 524416,
+      "date": 132495061037910223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00212-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378109723908
+      "date": 132495061037860219
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00213-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378170699068
+      "size": 262272,
+      "date": 132495061031260229
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00213-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378170469068
+      "date": 132495061031220217
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00219-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378148863952
+      "size": 1048704,
+      "date": 132495061027940967
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00219-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378148653937
+      "date": 132495061027900523
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00220-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378111083910
+      "size": 524416,
+      "date": 132495061037270232
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00220-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378110863915
+      "date": 132495061037220221
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00225-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378113623909
+      "size": 1048704,
+      "date": 132495061037590232
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00225-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378113403918
+      "date": 132495061037550221
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00226-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378108753930
+      "size": 524416,
+      "date": 132495061037750228
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00226-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378108533959
+      "date": 132495061037710238
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00230-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378138853957
+      "size": 1048704,
+      "date": 132495061041481703
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00230-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378138643915
+      "date": 132495061041441365
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00232-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378146263934
+      "size": 262272,
+      "date": 132495061028820794
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00232-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378146043903
+      "date": 132495061028780782
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00233-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378143143939
+      "size": 524416,
+      "date": 132495061041301253
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00233-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378142943911
+      "date": 132495061041261370
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00234-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378152483910
+      "size": 262272,
+      "date": 132495061028240601
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00234-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378152263927
+      "date": 132495061028200604
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00246-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378169769066
+      "size": 524416,
+      "date": 132495061031130224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00246-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378169529068
+      "date": 132495061031090207
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00249-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378150393907
+      "size": 524416,
+      "date": 132495061028410987
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00249-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378150203913
+      "date": 132495061028360560
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00250-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378147393909
+      "size": 262272,
+      "date": 132495061027760527
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO1-00250-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378147163918
+      "date": 132495061027710532
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00007-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378296102233
+      "size": 1048704,
+      "date": 132495061050041626
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00007-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378295982224
+      "date": 132495061049976141
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00008-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378266292242
+      "size": 262272,
+      "date": 132495061045141809
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00008-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378266162238
+      "date": 132495061045101838
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00011-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378261522231
+      "size": 1048704,
+      "date": 132495061043898160
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00011-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378261382253
+      "date": 132495061043858268
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00012-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378276582219
+      "size": 524416,
+      "date": 132495061043200262
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00012-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378276452230
+      "date": 132495061043142922
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00013-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378243084069
+      "size": 524416,
+      "date": 132495061063339079
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00013-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378242944033
+      "date": 132495061063289466
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00014-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378262072236
+      "size": 262272,
+      "date": 132495061044164807
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00014-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378261952213
+      "date": 132495061044116941
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00015-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378254812226
+      "size": 262272,
+      "date": 132495061061489128
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00015-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378254722234
+      "date": 132495061061449415
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00016-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378240874056
+      "size": 262272,
+      "date": 132495061062879084
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00016-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378240744039
+      "date": 132495061062839432
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00018-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378306262234
+      "size": 262272,
+      "date": 132495061048830876
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00018-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378306152244
+      "date": 132495061048786678
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00021-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378246874052
+      "size": 2097280,
+      "date": 132495061061019505
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00021-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378246744059
+      "date": 132495061060969679
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00022-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378243704069
+      "size": 262272,
+      "date": 132495061063479005
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00022-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378243564048
+      "date": 132495061063439422
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00023-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378277662261
+      "size": 524416,
+      "date": 132495061043342720
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00023-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378277532246
+      "date": 132495061043302728
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00024-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378255312234
+      "size": 262272,
+      "date": 132495061061629427
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00024-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378255212217
+      "date": 132495061061589412
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00025-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378263232236
+      "size": 1048704,
+      "date": 132495061044354772
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00025-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378263112226
+      "date": 132495061044314784
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00026-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378268762258
+      "size": 524416,
+      "date": 132495061041883261
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00026-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378268622234
+      "date": 132495061041843605
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00027-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378241484050
+      "size": 262272,
+      "date": 132495061063019415
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00027-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378241374033
+      "date": 132495061062979420
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00028-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378217194069
+      "size": 524416,
+      "date": 132495061058190727
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00028-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378217054073
+      "date": 132495061058140837
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00029-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378306942227
+      "size": 262272,
+      "date": 132495061048972921
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00029-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378306852247
+      "date": 132495061048932771
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00030-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378304282246
+      "size": 262272,
+      "date": 132495061048427168
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00030-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378304152261
+      "date": 132495061048397170
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00031-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378206934073
+      "size": 1048704,
+      "date": 132495061056565413
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00031-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378206764085
+      "date": 132495061056525377
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00032-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378223724058
+      "size": 524416,
+      "date": 132495061055945989
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00032-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378223614056
+      "date": 132495061055899908
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00033-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378301012232
+      "size": 262272,
+      "date": 132495061050907439
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00033-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378300902218
+      "date": 132495061050859963
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00034-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378213764072
+      "size": 262272,
+      "date": 132495061057685473
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00034-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378213624061
+      "date": 132495061057635461
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00037-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378218144057
+      "size": 524416,
+      "date": 132495061054961820
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00037-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378217994041
+      "date": 132495061054912165
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00038-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378247384058
+      "size": 262272,
+      "date": 132495061061349077
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00038-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378247264074
+      "date": 132495061061309424
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00039-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378266852235
+      "size": 262272,
+      "date": 132495061045292453
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00039-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378266732249
+      "date": 132495061045252451
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00046-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378239014077
+      "size": 262272,
+      "date": 132495061062539464
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00046-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378238874030
+      "date": 132495061062499415
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00047-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378273702234
+      "size": 262272,
+      "date": 132495061042715673
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00047-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378273552260
+      "date": 132495061042675366
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00050-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378207994071
+      "size": 262272,
+      "date": 132495061056716469
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00050-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378207824087
+      "date": 132495061056676641
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00051-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378301632229
+      "size": 262272,
+      "date": 132495061047927168
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00051-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378301502225
+      "date": 132495061047896858
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00052-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378298662221
+      "size": 262272,
+      "date": 132495061050455952
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00052-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378298532254
+      "date": 132495061050416075
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00053-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378224264070
+      "size": 262272,
+      "date": 132495061056086309
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00053-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378224154067
+      "date": 132495061056045943
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00066-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378294122230
+      "size": 1048704,
+      "date": 132495061049693159
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00066-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378294082259
+      "date": 132495061049647474
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00067-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378220124042
+      "size": 524416,
+      "date": 132495061055312152
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00067-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378219984055
+      "date": 132495061055272152
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00071-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378244574058
+      "size": 524416,
+      "date": 132495061060639163
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00071-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378244434067
+      "date": 132495061060599618
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00074-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378254342403
+      "size": 1048704,
+      "date": 132495061061209489
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00074-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378254222221
+      "date": 132495061061159429
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00075-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378267802238
+      "size": 524416,
+      "date": 132495061045009242
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00075-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378267662227
+      "date": 132495061044959355
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00077-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378240244052
+      "size": 1048704,
+      "date": 132495061062729081
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00077-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378240114077
+      "date": 132495061062689440
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00078-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378214384077
+      "size": 262272,
+      "date": 132495061057535458
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00078-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378214264072
+      "date": 132495061057495460
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00080-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378278212237
+      "size": 262272,
+      "date": 132495061043482455
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00080-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378278092249
+      "date": 132495061043442712
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00085-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378274602237
+      "size": 524416,
+      "date": 132495061042863288
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00085-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378274462255
+      "date": 132495061042822926
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00092-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378209264044
+      "size": 1048704,
+      "date": 132495061056906539
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00092-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378209124093
+      "date": 132495061056866107
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00094-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378221374053
+      "size": 1048704,
+      "date": 132495061055512356
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00094-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378221244031
+      "date": 132495061055462212
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00095-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378294892237
+      "size": 524416,
+      "date": 132495061049835711
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00095-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378294752240
+      "date": 132495061049806360
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00100-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378260412242
+      "size": 2097280,
+      "date": 132495061043718171
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00100-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378260272239
+      "date": 132495061043670555
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00101-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378245254050
+      "size": 262272,
+      "date": 132495061060779400
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00101-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378245114086
+      "date": 132495061060739402
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00103-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378275792240
+      "size": 1048704,
+      "date": 132495061043042823
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00103-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378275652247
+      "date": 132495061042992923
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00104-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378257992236
+      "size": 524416,
+      "date": 132495061061789422
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00104-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378257862257
+      "date": 132495061061739413
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00115-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378308382249
+      "size": 2097280,
+      "date": 132495061049202781
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00115-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378308242237
+      "date": 132495061049152979
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00116-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378298002244
+      "size": 524416,
+      "date": 132495061050191645
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00116-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378297872247
+      "date": 132495061050151930
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00117-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378219344097
+      "size": 1048704,
+      "date": 132495061055152155
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00117-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378219204071
+      "date": 132495061055102184
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00123-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378222914081
+      "size": 2097280,
+      "date": 132495061055772178
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00123-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378222774037
+      "date": 132495061055721886
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00124-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378309892230
+      "size": 1048704,
+      "date": 132495061049378638
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00124-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378309762227
+      "date": 132495061049332806
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00125-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378215014101
+      "size": 262272,
+      "date": 132495061058021164
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00125-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378214874063
+      "date": 132495061057980851
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00134-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378264412240
+      "size": 1048704,
+      "date": 132495061044545330
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00134-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378264292256
+      "date": 132495061044495136
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00135-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378258862246
+      "size": 524416,
+      "date": 132495061061949551
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00135-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378258772220
+      "date": 132495061061899426
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00136-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378242174086
+      "size": 262272,
+      "date": 132495061063169437
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00136-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378242034094
+      "date": 132495061063129452
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00140-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378302782266
+      "size": 1048704,
+      "date": 132495061048156844
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00140-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378302652253
+      "date": 132495061048106839
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00141-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378210734053
+      "size": 524416,
+      "date": 132495061057066644
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00141-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378210594066
+      "date": 132495061057026743
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00142-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378225424063
+      "size": 262272,
+      "date": 132495061056230947
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00142-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378225284088
+      "date": 132495061056191552
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00148-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378256392246
+      "size": 262272,
+      "date": 132495061062089432
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00148-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378256262221
+      "date": 132495061062039425
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00155-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378265592234
+      "size": 1048704,
+      "date": 132495061044729919
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00155-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378265452247
+      "date": 132495061044689345
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00156-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378270652229
+      "size": 524416,
+      "date": 132495061042183860
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00156-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378270512266
+      "date": 132495061042133960
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00157-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378238414073
+      "size": 262272,
+      "date": 132495061062389428
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00157-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378238274068
+      "date": 132495061062349430
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00167-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378271832231
+      "size": 1048704,
+      "date": 132495061042414371
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00167-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378271692256
+      "date": 132495061042370241
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00169-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378216274056
+      "size": 1048704,
+      "date": 132495061057876376
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00169-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378216124072
+      "date": 132495061057835447
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00170-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378211674099
+      "size": 524416,
+      "date": 132495061057237552
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00170-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378211524060
+      "date": 132495061057187506
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00171-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378303592239
+      "size": 524416,
+      "date": 132495061048306828
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00171-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378303452239
+      "date": 132495061048267180
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00172-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378300462228
+      "size": 2097280,
+      "date": 132495061050765952
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00172-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378300332245
+      "date": 132495061050706057
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00179-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378257162234
+      "size": 524416,
+      "date": 132495061062239439
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00179-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378257062234
+      "date": 132495061062199419
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00180-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378225984059
+      "size": 262272,
+      "date": 132495061056375274
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00180-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378225874046
+      "date": 132495061056331397
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00183-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378212604085
+      "size": 524416,
+      "date": 132495061057394998
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00183-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378212454069
+      "date": 132495061057357505
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00184-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378293032256
+      "size": 262272,
+      "date": 132495061049516864
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00184-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378292922240
+      "date": 132495061049477202
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00187-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132493378305752228
+      "size": 2097280,
+      "date": 132495061048697632
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00187-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378305612239
+      "date": 132495061048637738
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00188-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378269672270
+      "size": 524416,
+      "date": 132495061042024284
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00188-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378269532269
+      "date": 132495061041983971
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00194-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378273042256
+      "size": 1048704,
+      "date": 132495061042585162
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00194-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378272912232
+      "date": 132495061042544823
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00198-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378296582227
+      "size": 262272,
+      "date": 132495061050321959
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00198-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378296502211
+      "date": 132495061050281970
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00202-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378320342258
+      "size": 524416,
+      "date": 132495061052091848
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00202-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378320212265
+      "date": 132495061052052194
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00206-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378197914065
+      "size": 524416,
+      "date": 132495061053672171
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00206-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378197784064
+      "date": 132495061053632172
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00207-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378315632225
+      "size": 262272,
+      "date": 132495061051322230
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00207-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378315512286
+      "date": 132495061051292174
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00208-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378291282226
+      "size": 524416,
+      "date": 132495061045947735
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00208-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378291172217
+      "date": 132495061045907836
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00212-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378285342262
+      "size": 524416,
+      "date": 132495061047668595
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00212-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378285202243
+      "date": 132495061047618648
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00215-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378230334060
+      "size": 524416,
+      "date": 132495061060339432
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00215-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378230194065
+      "date": 132495061060299604
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00217-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378279932258
+      "size": 262272,
+      "date": 132495061046582698
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00217-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378279792242
+      "date": 132495061046547609
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00222-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378237754074
+      "size": 262272,
+      "date": 132495061059429123
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00222-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378237614048
+      "date": 132495061059389429
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00224-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378231284045
+      "size": 524416,
+      "date": 132495061060489412
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00224-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378231144091
+      "date": 132495061060449432
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00232-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378201924055
+      "size": 1048704,
+      "date": 132495061054312161
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00232-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378201754098
+      "date": 132495061054261838
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00233-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378321002230
+      "size": 262272,
+      "date": 132495061052232172
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00233-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378320892219
+      "date": 132495061052192185
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00234-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378204874072
+      "size": 524416,
+      "date": 132495061053392170
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00234-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378204704079
+      "date": 132495061053352170
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00235-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378313502248
+      "size": 262272,
+      "date": 132495061053092183
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00235-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378313352211
+      "date": 132495061053052178
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00236-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378316832235
+      "size": 1048704,
+      "date": 132495061051521821
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00236-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378316692256
+      "date": 132495061051481814
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00237-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378198904067
+      "size": 524416,
+      "date": 132495061053822183
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00237-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378198754072
+      "date": 132495061053782399
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00238-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378229504075
+      "size": 262272,
+      "date": 132495061059858998
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00238-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378229374056
+      "date": 132495061059819424
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00239-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378292552227
+      "size": 1048704,
+      "date": 132495061046147224
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00239-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378292412257
+      "date": 132495061046097146
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00240-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378227264064
+      "size": 524416,
+      "date": 132495061059579423
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00240-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378227124054
+      "date": 132495061059539428
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00241-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378287202237
+      "size": 1048704,
+      "date": 132495061045472801
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00241-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378287062243
+      "date": 132495061045423006
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00246-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378233464050
+      "size": 1048704,
+      "date": 132495061058380801
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00246-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378233344075
+      "date": 132495061058340786
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00250-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378203844096
+      "size": 524416,
+      "date": 132495061053242179
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00250-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378203674049
+      "date": 132495061053202382
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00251-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378310362255
+      "size": 262272,
+      "date": 132495061052372181
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00251-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378310252224
+      "date": 132495061052332196
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00258-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378289192236
+      "size": 1048704,
+      "date": 132495061045802340
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00258-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378289052242
+      "date": 132495061045752445
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00263-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378318302242
+      "size": 524416,
+      "date": 132495061051822159
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00263-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378318152233
+      "date": 132495061051782178
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00264-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378205594079
+      "size": 262272,
+      "date": 132495061053522173
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00264-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378205444039
+      "date": 132495061053482169
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00265-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378312902243
+      "size": 262272,
+      "date": 132495061052912177
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00265-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378312762239
+      "date": 132495061052872384
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00266-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378314992232
+      "size": 524416,
+      "date": 132495061051195117
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00266-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378314862267
+      "date": 132495061051157894
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00267-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378200624063
+      "size": 262272,
+      "date": 132495061054092190
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00267-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378200484079
+      "date": 132495061054052170
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00268-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378232204056
+      "size": 524416,
+      "date": 132495061060189417
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00268-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378232064064
+      "date": 132495061060148987
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00274-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378228834054
+      "size": 524416,
+      "date": 132495061060029077
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00274-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378228694069
+      "date": 132495061059979120
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00275-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378289812226
+      "size": 262272,
+      "date": 132495061046307167
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00275-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378289672210
+      "date": 132495061046262956
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00276-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378281472236
+      "size": 524416,
+      "date": 132495061047008659
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00276-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378281332214
+      "date": 132495061046968655
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00277-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378233964072
+      "size": 262272,
+      "date": 132495061058718998
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00277-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378233854067
+      "date": 132495061058679673
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00280-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378285942236
+      "size": 262272,
+      "date": 132495061047797186
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00280-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378285902214
+      "date": 132495061047756866
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00283-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378288012260
+      "size": 524416,
+      "date": 132495061045622455
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00283-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378287882241
+      "date": 132495061045582779
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00284-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378234624048
+      "size": 262272,
+      "date": 132495061058869189
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00284-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378234494039
+      "date": 132495061058829424
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00285-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378282732230
+      "size": 524416,
+      "date": 132495061047158575
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00285-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378282592244
+      "date": 132495061047118641
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00286-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378290422262
+      "size": 262272,
+      "date": 132495061046447613
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00286-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378290282225
+      "date": 132495061046407601
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00299-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378278882240
+      "size": 262272,
+      "date": 132495061046718191
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00299-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378278742250
+      "date": 132495061046675050
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00302-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378236344044
+      "size": 262272,
+      "date": 132495061059149432
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00302-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378236234055
+      "date": 132495061059109419
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00303-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132493378283842258
+      "size": 1048704,
+      "date": 132495061047338661
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00303-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378283702262
+      "date": 132495061047288656
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00327-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378317382260
+      "size": 262272,
+      "date": 132495061051662158
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00327-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378317272245
+      "date": 132495061051622160
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00329-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378227904074
+      "size": 262272,
+      "date": 132495061059709419
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00329-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378227764067
+      "date": 132495061059669431
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00332-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378284462236
+      "size": 262272,
+      "date": 132495061047468680
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00332-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378284332239
+      "date": 132495061047428648
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00333-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378237154049
+      "size": 524416,
+      "date": 132495061059289457
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00333-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378237034078
+      "date": 132495061059249407
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00336-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378235754069
+      "size": 262272,
+      "date": 132495061059009438
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00336-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378235624058
+      "date": 132495061058968998
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00337-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378280592234
+      "size": 262272,
+      "date": 132495061046858633
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00337-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378280472238
+      "date": 132495061046818682
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00338-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378311652221
+      "size": 262272,
+      "date": 132495061052781831
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00338-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378311512229
+      "date": 132495061052742223
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00340-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378311042240
+      "size": 262272,
+      "date": 132495061052512236
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00340-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378310932229
+      "date": 132495061052472522
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00342-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132493378202894062
+      "size": 524416,
+      "date": 132495061054781875
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00342-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378202734091
+      "date": 132495061054691857
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00343-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378318962223
+      "size": 262272,
+      "date": 132495061051952163
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00343-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378318842239
+      "date": 132495061051912178
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00345-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378312282223
+      "size": 262272,
+      "date": 132495061052642170
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00345-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378312152231
+      "date": 132495061052612177
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00346-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378314142255
+      "size": 262272,
+      "date": 132495061051037563
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00346-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378314012245
+      "date": 132495061050997903
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00347-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132493378199564064
+      "size": 262272,
+      "date": 132495061053961822
     },
     {
       "path": "scenery/mycompany/TEXTURE/NAVIO2-00347-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132493378199414076
+      "date": 132495061053922178
     },
     {
       "path": "scenery/world/scenery/Navio1.bgl",
       "size": 284,
-      "date": 132493394661609988
+      "date": 132495059203741284
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
       "size": 220,
-      "date": 132493378326152290
+      "date": 132495059203901547
     }
   ]
 }

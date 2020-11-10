@@ -7,868 +7,868 @@
     },
     {
       "path": "manifest.json",
-      "size": 271,
-      "date": 132492419868496077
+      "size": 272,
+      "date": 132495049189657456
     },
     {
       "path": "scenery/mycompany/modelLib.BGL",
       "size": 12356174,
-      "date": 132492419790964157
+      "date": 132495051311052557
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00064-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407532870081
+      "size": 524416,
+      "date": 132495051306572247
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00064-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407532650089
+      "date": 132495051306532252
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00065-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407631780050
+      "size": 262272,
+      "date": 132495051300712348
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00065-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407631580087
+      "date": 132495051300672366
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00068-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407577910053
+      "size": 524416,
+      "date": 132495051308612259
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00068-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407577690094
+      "date": 132495051308572462
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00070-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407589420047
+      "size": 524416,
+      "date": 132495051297201911
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00070-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407589210070
+      "date": 132495051297152332
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00071-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407569960072
+      "size": 262272,
+      "date": 132495051307481899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00071-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407569750075
+      "date": 132495051307432265
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00073-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407611630087
+      "size": 262272,
+      "date": 132495051296181910
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00073-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407611450069
+      "date": 132495051296132479
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00085-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407603110033
+      "size": 1048704,
+      "date": 132495051295681904
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00085-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407602900065
+      "date": 132495051295632261
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00086-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407593180060
+      "size": 262272,
+      "date": 132495051298911899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00086-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407592980100
+      "date": 132495051298862348
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00087-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407572970082
+      "size": 1048704,
+      "date": 132495051308461900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00087-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407572760077
+      "date": 132495051308412247
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00088-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407542290081
+      "size": 524416,
+      "date": 132495051302722329
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00088-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407542080052
+      "date": 132495051302682528
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00089-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407616660063
+      "size": 262272,
+      "date": 132495051301631907
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00089-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407616440079
+      "date": 132495051301582343
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00091-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407552670072
+      "size": 2097280,
+      "date": 132495051304081905
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00091-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407552460040
+      "date": 132495051304022778
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00092-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407528500077
+      "size": 1048704,
+      "date": 132495051304981900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00092-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407528310073
+      "date": 132495051304932350
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00093-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407627510055
+      "size": 262272,
+      "date": 132495051299061909
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00093-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407627290057
+      "date": 132495051299012328
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00094-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407543860124
+      "size": 1048704,
+      "date": 132495051303672320
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00094-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407543660084
+      "date": 132495051303632322
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00095-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407612940087
+      "size": 524416,
+      "date": 132495051301471897
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00095-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407612740067
+      "date": 132495051301432317
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00096-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407632890073
+      "size": 262272,
+      "date": 132495051300861901
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00096-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407632690086
+      "date": 132495051300812327
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00097-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407534090089
+      "size": 262272,
+      "date": 132495051306721905
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00097-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407533920054
+      "date": 132495051306671942
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00098-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407562240057
+      "size": 1048704,
+      "date": 132495051309032329
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00098-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407562020080
+      "date": 132495051308992327
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00099-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407601480056
+      "size": 262272,
+      "date": 132495051294756040
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00099-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407601290078
+      "date": 132495051294705600
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00102-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407567820117
+      "size": 1048704,
+      "date": 132495051310061901
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00102-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407567600075
+      "date": 132495051310022005
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00103-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407605550103
+      "size": 262272,
+      "date": 132495051295842268
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00103-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407605350070
+      "date": 132495051295802405
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00109-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407634150064
+      "size": 524416,
+      "date": 132495051300341902
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00109-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407633930057
+      "date": 132495051300292321
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00110-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407629270060
+      "size": 262272,
+      "date": 132495051299562391
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00110-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407629080086
+      "date": 132495051299522512
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00111-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407520940036
+      "size": 524416,
+      "date": 132495051304621907
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00111-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407520750102
+      "date": 132495051304572323
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00112-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407547780112
+      "size": 262272,
+      "date": 132495051303822343
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00112-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407547570086
+      "date": 132495051303782330
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00113-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407621460065
+      "size": 2097280,
+      "date": 132495051302411902
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00113-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407621270074
+      "date": 132495051302362340
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00114-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407531340085
+      "size": 524416,
+      "date": 132495051305871899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00114-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407531120078
+      "date": 132495051305822333
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00115-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407639590074
+      "size": 262272,
+      "date": 132495051301011899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00115-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407639390084
+      "date": 132495051300972326
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00116-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407615570074
+      "size": 1048704,
+      "date": 132495051301821900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00116-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407615360067
+      "date": 132495051301772317
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00117-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407539490131
+      "size": 1048704,
+      "date": 132495051303131905
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00117-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407539260109
+      "date": 132495051303082314
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00118-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407575640057
+      "size": 524416,
+      "date": 132495051307942262
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00118-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407575440080
+      "date": 132495051307902242
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00119-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407595650063
+      "size": 2097280,
+      "date": 132495051298281904
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00119-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407595450074
+      "date": 132495051298232503
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00120-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407522070078
+      "size": 262272,
+      "date": 132495051304762336
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00120-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407521870099
+      "date": 132495051304722321
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00121-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407630740046
+      "size": 1048704,
+      "date": 132495051299762341
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00121-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407630530075
+      "date": 132495051299712383
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00122-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407622550054
+      "size": 262272,
+      "date": 132495051302562486
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00122-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407622340096
+      "date": 132495051302522340
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00128-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407597110059
+      "size": 1048704,
+      "date": 132495051298762333
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00128-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407596910071
+      "date": 132495051298721891
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00129-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407576660076
+      "size": 262272,
+      "date": 132495051308082259
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00129-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407576470055
+      "date": 132495051308042514
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00130-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407571510062
+      "size": 524416,
+      "date": 132495051307781896
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00130-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407571350088
+      "date": 132495051307742475
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00131-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407584800067
+      "size": 262272,
+      "date": 132495051297022331
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00131-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407584600072
+      "date": 132495051296982327
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00132-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407606580061
+      "size": 262272,
+      "date": 132495051296021896
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00132-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407606420052
+      "date": 132495051295961913
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00134-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407590730089
+      "size": 524416,
+      "date": 132495051297961907
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00134-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407590520073
+      "date": 132495051297912321
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00136-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407560610068
+      "size": 1048704,
+      "date": 132495051309221900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00136-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407560420076
+      "date": 132495051309172328
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00137-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407600410068
+      "size": 524416,
+      "date": 132495051294961917
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00137-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407600200069
+      "date": 132495051294902262
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00138-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407635230048
+      "size": 262272,
+      "date": 132495051300562332
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00138-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407635040073
+      "date": 132495051300522320
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00139-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407535460134
+      "size": 262272,
+      "date": 132495051306412252
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00139-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407535260108
+      "date": 132495051306372248
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00140-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407624100079
+      "size": 1048704,
+      "date": 132495051299251903
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00140-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407623890057
+      "date": 132495051299202324
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00141-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407524540071
+      "size": 2097280,
+      "date": 132495051305211900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00141-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407524330081
+      "date": 132495051305162348
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00142-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407549300063
+      "size": 1048704,
+      "date": 132495051304281903
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00142-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407549080088
+      "date": 132495051304232339
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00143-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407617930078
+      "size": 262272,
+      "date": 132495051301961895
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00143-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407617720053
+      "date": 132495051301922335
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00150-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407586680058
+      "size": 524416,
+      "date": 132495051297381910
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00150-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407586500065
+      "date": 132495051297332355
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00151-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407568840110
+      "size": 262272,
+      "date": 132495051307621900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00151-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407568630065
+      "date": 132495051307582253
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00152-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407563860061
+      "size": 1048704,
+      "date": 132495051309591898
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00152-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407563640105
+      "date": 132495051309552359
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00153-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407607730067
+      "size": 262272,
+      "date": 132495051296341953
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00153-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407607520109
+      "date": 132495051296292482
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00154-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407574420075
+      "size": 1048704,
+      "date": 132495051308281900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00154-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407574240068
+      "date": 132495051308232461
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00158-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407529900123
+      "size": 524416,
+      "date": 132495051306031894
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00158-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407529690062
+      "date": 132495051305992274
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00159-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407638460066
+      "size": 262272,
+      "date": 132495051301161901
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00159-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407638270085
+      "date": 132495051301112326
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00161-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407588200097
+      "size": 1048704,
+      "date": 132495051297591991
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00161-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407588010047
+      "date": 132495051297542358
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00162-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407609060070
+      "size": 524416,
+      "date": 132495051296561919
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00162-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407608770116
+      "date": 132495051296512485
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00163-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407564930070
+      "size": 262272,
+      "date": 132495051309731899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00163-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407564710071
+      "date": 132495051309692321
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00166-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407557580116
+      "size": 1048704,
+      "date": 132495051308851899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00166-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407557390069
+      "date": 132495051308802331
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00167-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407604500100
+      "size": 262272,
+      "date": 132495051295451909
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00167-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407604300053
+      "date": 132495051295402386
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00170-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407526890100
+      "size": 2097280,
+      "date": 132495051305462075
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00170-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407526690034
+      "date": 132495051305411901
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00171-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407626030097
+      "size": 524416,
+      "date": 132495051299412352
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00171-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407625850088
+      "date": 132495051299372339
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00172-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407619450091
+      "size": 1048704,
+      "date": 132495051302161903
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00172-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407619230094
+      "date": 132495051302111986
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00173-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407550560080
+      "size": 524416,
+      "date": 132495051304452316
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00173-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407550340077
+      "date": 132495051304412510
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00174-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407636360109
+      "size": 262272,
+      "date": 132495051300022330
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00174-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407636140098
+      "date": 132495051299982340
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00176-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407545360055
+      "size": 1048704,
+      "date": 132495051303322349
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00176-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407545150059
+      "date": 132495051303282519
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00177-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407614020119
+      "size": 262272,
+      "date": 132495051301311902
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00177-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407613800111
+      "date": 132495051301262408
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00178-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407592220060
+      "size": 1048704,
+      "date": 132495051297791901
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00178-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407592010067
+      "date": 132495051297742377
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00185-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407546600061
+      "size": 524416,
+      "date": 132495051303481904
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00185-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407546390051
+      "date": 132495051303442325
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00186-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407537970084
+      "size": 2097280,
+      "date": 132495051306271900
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00186-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407537730068
+      "date": 132495051306222265
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00187-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407637480076
+      "size": 262272,
+      "date": 132495051300172349
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00187-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407637240051
+      "date": 132495051300132333
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00188-TEXTURE.PNG.DDS",
-      "size": 349672,
-      "date": 132492407599200057
+      "size": 2097280,
+      "date": 132495051295261912
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00188-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407598990068
+      "date": 132495051295202264
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00189-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407559150071
+      "size": 1048704,
+      "date": 132495051309411899
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00189-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407558940074
+      "date": 132495051309362310
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00190-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407566210100
+      "size": 524416,
+      "date": 132495051309881905
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00190-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407566010069
+      "date": 132495051309842322
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00191-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407610540055
+      "size": 1048704,
+      "date": 132495051296871904
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00191-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407610340074
+      "date": 132495051296822351
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00199-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407541120073
+      "size": 1048704,
+      "date": 132495051302931905
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00199-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407540910099
+      "date": 132495051302872319
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00200-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407555070079
+      "size": 1048704,
+      "date": 132495051306912315
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00200-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407554880067
+      "date": 132495051306872244
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00206-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407553510071
+      "size": 262272,
+      "date": 132495051307332252
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00206-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407553320069
+      "date": 132495051307282250
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00209-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407580970081
+      "size": 1048704,
+      "date": 132495051310592322
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00209-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407580770093
+      "date": 132495051310552375
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00210-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407579130076
+      "size": 524416,
+      "date": 132495051310412322
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00210-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407578910086
+      "date": 132495051310372309
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00211-TEXTURE.PNG.DDS",
-      "size": 87528,
-      "date": 132492407583710059
+      "size": 524416,
+      "date": 132495051294576308
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00211-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407583500086
+      "date": 132495051294526206
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00216-TEXTURE.PNG.DDS",
-      "size": 174904,
-      "date": 132492407582620096
+      "size": 1048704,
+      "date": 132495051310261923
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00216-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407582340083
+      "date": 132495051310222413
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00228-TEXTURE.PNG.DDS",
-      "size": 43832,
-      "date": 132492407556100112
+      "size": 262272,
+      "date": 132495051307191903
     },
     {
       "path": "scenery/mycompany/TEXTURE/ARENA FONTE NOVA 4-00228-TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132492407555910075
+      "date": 132495051307152255
     },
     {
       "path": "scenery/world/scenerry/objects.bgl",
       "size": 300,
-      "date": 132492420238143443
+      "date": 132495049188957441
     }
   ]
 }
