@@ -36,15 +36,15 @@ Microsoft Flight Simulator 2020
 ```sh
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
-### Nota da versão 0.0.4
+### Notas da versão 0.0.4
 - Adicionando iluminação noturna
 - Tratamento das imagens e correção de cores
 
-### Nota da versão 0.0.3
+### Notas da versão 0.0.3
 - Adicionado o Hotel Pestana
 - Adicionando Navios no Porto de Salvador
 
-### Nota da versão 0.0.2
+### Notas da versão 0.0.2
 - Adicionado Farol da Barra
 - Adicionado Elevador Lacerda
 - Adicionado Mercado Modelo
