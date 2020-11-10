@@ -29,12 +29,9 @@ Microsoft Flight Simulator 2020
 <li>Hotel Pestana</li>
 </ul>
 
-### Nota versão 0.0.4
+## Nota da proxima versão
 - Adicionando iluminação noturna
 - Tratamento das imagens e correção de cores
-
-### Nota versão 0.0.3
-- Adicionado o Hotel Pestana
 
 ## Instalação
 
