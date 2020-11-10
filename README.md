@@ -42,7 +42,7 @@ C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightS
 
 ### Nota da versão 0.0.3
 - Adicionado o Hotel Pestana
-- Navios no Porto de Salvador
+- Adicionando Navios no Porto de Salvador
 
 ### Nota da versão 0.0.2
 - Adicionado Farol da Barra
