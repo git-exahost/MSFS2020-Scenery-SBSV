@@ -29,15 +29,18 @@ Microsoft Flight Simulator 2020
 <li>Hotel Pestana</li>
 </ul>
 
-## Nota da proxima versão
+### Nota versão 0.0.4
 - Adicionando iluminação noturna
 - Tratamento das imagens e correção de cores
+
+### Nota versão 0.0.3
+- Adicionado o Hotel Pestana
 
 ## Instalação
 
 <p>Para instalar, baixe o projeto e copie a pasta <b>Scenery_Salvador</b> para dentro da pasta <b>Community</b> ou baixe o arquivo Zipado clicando no link abaixo:</p>
 
-[Cenário Salvador Download](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.2/Scenery_Salvador_0.0.2.zip)
+[Cenário Salvador Download](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.4/Scenery_Salvador_0.0.4.zip)
 
 <p>Geralmente a pasta Community se encontra em:</p>
 
