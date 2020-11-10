@@ -19,22 +19,13 @@ Microsoft Flight Simulator 2020
 
 ## Pontos turisticos adicionados
 
-<ul>
-<li>Farol da Barra</li>
-<li>Elevador Lacerda</li>
-<li>Forte São Marcelo</li>
-<li>Mercado Modelo</li>
-<li>Arena Fonte Nova</li>
-<li>Navios no Porto de Salvador</li>
-<li>Hotel Pestana</li>
-</ul>
-
-### Nota versão 0.0.4
-- Adicionando iluminação noturna
-- Tratamento das imagens e correção de cores
-
-### Nota versão 0.0.3
-- Adicionado o Hotel Pestana
+- Farol da Barra
+- Elevador Lacerda
+- Forte São Marcelo
+- Mercado Modelo
+- Arena Fonte Nova
+- Navios no Porto de Salvador
+- Hotel Pestana
 
 ## Instalação
 
@@ -47,6 +38,24 @@ Microsoft Flight Simulator 2020
 ```sh
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
+### Nota da versão 0.0.4
+- Adicionando iluminação noturna
+- Tratamento das imagens e correção de cores
+
+### Nota da versão 0.0.3
+- Adicionado o Hotel Pestana
+- Navios no Porto de Salvador
+
+### Nota da versão 0.0.2
+- Adicionado Farol da Barra
+- Adicionado Elevador Lacerda
+- Adicionado Mercado Modelo
+- Adicionado Forte São Marcelo
+
+
+### Nota da versão 0.0.1
+- Iniciando o projeto
+- Adicionado Arena Fonte Nova
   
 ## Entendendo o Projeto
 
