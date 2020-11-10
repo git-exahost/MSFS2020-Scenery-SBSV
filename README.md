@@ -65,7 +65,7 @@ C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightS
 > Retiramos o conteudo das pastas "scenery/mycompany" e "scenery/world/scenery" movemos para "Scenery_Salvador/scenery" e renomeamos o "mycompany" e "world" para o nome do cenário em seguida adicionamos as respectivas linhas para o layout.json
 
 ## OBS
-> As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020
+*As imagens foram retiradas do Google Maps usando o RenderDoc, em seguida tratadas pelo Blender e exportadas apra o Projeto do MSFS2020*
 
 
 
