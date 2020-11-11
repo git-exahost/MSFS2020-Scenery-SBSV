@@ -36,6 +36,9 @@ Microsoft Flight Simulator 2020
 ```sh
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
+### Notas da versão 0.0.5
+- Subistituição das árvores gigantes por árvores menores na cabeceira das pistas do SBSV
+
 ### Notas da versão 0.0.4
 - Adicionando iluminação noturna
 - Tratamento das imagens e correção de cores
