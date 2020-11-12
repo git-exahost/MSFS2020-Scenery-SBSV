@@ -17,7 +17,7 @@ Microsoft Flight Simulator 2020
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg">
 </figure>
 <figure>
-https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg">
 </figure>
 <br>
 
