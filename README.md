@@ -36,7 +36,7 @@ Microsoft Flight Simulator 2020
 ```sh
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
-### Notas da versão 0.0.5.1
+### Notas da versão 0.0.6
 - Removido navios do google maps, em subistituição pelos modelos dos navios do projeto nativo (redução de espaço do projeto)
 - Pequenos ajustes nas redondezas do aereporto 
 
