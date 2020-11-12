@@ -6,14 +6,24 @@
       "date": 132451965880000000
     },
     {
+      "path": "manifest.json",
+      "size": 272,
+      "date": 132496709579878685
+    },
+    {
       "path": "scenery/mycompany/modelLib.BGL",
       "size": 56,
-      "date": 132495875895355694
+      "date": 132496171641483295
     },
     {
       "path": "scenery/POLYGON.BGL",
-      "size": 5003,
-      "date": 132495875896475661
+      "size": 5917,
+      "date": 132496709794653429
+    },
+    {
+      "path": "scenery/Scenery.bgl",
+      "size": 4828,
+      "date": 132496709793212857
     }
   ]
 }
