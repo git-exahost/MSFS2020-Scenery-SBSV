@@ -29,7 +29,7 @@ Microsoft Flight Simulator 2020
 
 ## Instalação
 
-<p>Para instalar, baixe o projeto e copie a pasta <b>Scenery_Salvador</b> para dentro da pasta <b>Community</b> ou baixe o arquivo Zipado clicando no link abaixo:</p>
+Para instalar, baixe o projeto ou o arquivo zipado no link abaixo e copie a pasta <b>Scenery_Salvador</b> para dentro da pasta <b>Community</b>
 
 [Cenário Salvador Download](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/releases/download/0.0.6/Scenery_Salvador_0.0.6.zip)
 
