@@ -4,20 +4,12 @@
 Cenário da cidade Salvador Bahia - SBSV<br>
 Microsoft Flight Simulator 2020
 
-<figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg">
-Forte São Marcelo, Elevador Lacerda, Mercado Modelo
-</figure>
 
-<figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg">
-Arena Fonte Nova
-</figure>
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg?raw=true "Forte São Marcelo, Elevador Lacerda, Mercado Modelo")
 
-<figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg">
-Farol da Barra
-</figure>
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg?raw=true "Arena Fonte Nova")
+
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg?raw=true "Farol da Barra")
 
 ![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg?raw=true "Cabeceira da pista 10 sem as árvores grandes, tambem foram adicionado os galpões")
 
