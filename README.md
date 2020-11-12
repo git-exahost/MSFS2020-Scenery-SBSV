@@ -13,6 +13,12 @@ Microsoft Flight Simulator 2020
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg?raw=true">
 </figure>
+<figure>
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg?raw=true">
+</figure>
+<figure>
+<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg?raw=true">
+</figure>
 <br>
 
 ## Pontos turisticos adicionados
