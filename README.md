@@ -6,9 +6,11 @@ Microsoft Flight Simulator 2020
 
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg">
+Forte São Marcelo, Elevador Lacerda, Mercado Modelo
 </figure>
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg">
+Arena Fonte Nova
 </figure>
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg">
@@ -18,6 +20,7 @@ Microsoft Flight Simulator 2020
 </figure>
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg">
+Hotel Pestana
 </figure>
 <br>
 
