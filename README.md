@@ -6,20 +6,24 @@ Microsoft Flight Simulator 2020
 
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img01.jpg">
-Forte São Marcelo, Elevador Lacerda, Mercado Modelo<br>
+Forte São Marcelo, Elevador Lacerda, Mercado Modelo
 </figure>
+
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img02.jpg">
-Arena Fonte Nova<br>
+Arena Fonte Nova
 </figure>
+
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img03.jpg">
-Farol da Barra<br>
+Farol da Barra
 </figure>
+
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg">
-Cabeceira da pista 10 sem as árvores grandes, tambem foram adicionado os galpões<br>
+Cabeceira da pista 10 sem as árvores grandes, tambem foram adicionado os galpões
 </figure>
+
 <figure>
 <img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg">
 Hotel Pestana
