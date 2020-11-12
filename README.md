@@ -19,15 +19,10 @@ Arena Fonte Nova
 Farol da Barra
 </figure>
 
-<figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg">
-Cabeceira da pista 10 sem as árvores grandes, tambem foram adicionado os galpões
-</figure>
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img04.jpg?raw=true "Cabeceira da pista 10 sem as árvores grandes, tambem foram adicionado os galpões")
 
-<figure>
-<img src="https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg">
-Hotel Pestana
-</figure>
+![alt text](https://github.com/git-exahost/MSFS2020-Scenery-SBSV/blob/main/Screenshots/img05.jpg?raw=true "Hotel Pestana")
+
 <br>
 
 ## Pontos turisticos adicionados
