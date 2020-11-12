@@ -1,12 +1,44 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<!--SceneryObject name: Light_Sample-->
-	<SceneryObject lat="25.05060418911918" lon="-77.47305751166462" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{8396D176-1549-4772-A6E0-A54E5A0EE216}" scale="1.000000"/>
+	<!--SceneryObject name: CargoShip01-->
+	<SceneryObject lat="-12.96369019810802" lon="-38.50882044340934" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CF2B8E0D-0F88-4F07-968E-EC95D2108D4D}" scale="1.330000"/>
 	</SceneryObject>
-	<!--SceneryObject name: SampleMyBox-->
-	<SceneryObject lat="25.05112705300210" lon="-77.47373611527840" alt="0.00000000000000" pitch="0.001414" bank="-0.001414" heading="132.619133" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{B5A61705-97EF-4CC3-A058-4EB7743564CF}" scale="50.000000"/>
+	<!--SceneryObject name: CruiseShip01-->
+	<SceneryObject lat="-12.97017626934182" lon="-38.51410119705135" alt="0.00000000000000" pitch="0.000642" bank="-0.000642" heading="-134.565109" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0578DE99-9245-43EC-93C2-7510BCD0AA9E}" scale="1.110000"/>
+	</SceneryObject>
+	<!--SceneryObject name: CruiseShip02-->
+	<SceneryObject lat="-12.96805875299243" lon="-38.51206036563740" alt="0.00000000000000" pitch="0.000471" bank="-0.000410" heading="45.232750" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FD3481E9-3BE5-4B4E-844D-8F163EDB7A61}" scale="0.908258"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.96635579457721" lon="-38.51028070700839" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.550000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.96576864525321" lon="-38.50990441678561" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.96574258551797" lon="-38.50996935063461" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.96571710891199" lon="-38.51003970716246" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.96478940191593" lon="-38.50937095290849" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.570000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishingShip03-->
+	<SceneryObject lat="-12.95218157635435" lon="-38.50383074998314" alt="0.00000000000000" pitch="0.000410" bank="-0.000410" heading="157.747836" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="2.230000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FishsingShip02-->
+	<SceneryObject lat="-12.96517688665810" lon="-38.50960173985662" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="29.999994" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{507E0225-FA5A-4421-9632-783B83B363B3}" scale="1.410000"/>
 	</SceneryObject>
 </FSData>
 

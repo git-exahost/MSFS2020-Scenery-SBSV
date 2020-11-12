@@ -8,17 +8,17 @@
     {
       "path": "manifest.json",
       "size": 272,
-      "date": 132496706657713308
+      "date": 132496789402532608
     },
     {
       "path": "scenery/mycompany/modelLib.BGL",
       "size": 56,
-      "date": 132496707344570489
+      "date": 132496789402006424
     },
     {
       "path": "scenery/world/scenery/objects.bgl",
-      "size": 3436,
-      "date": 132496707344920464
+      "size": 4396,
+      "date": 132496789548956386
     }
   ]
 }

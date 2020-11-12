@@ -1,10 +1,10 @@
 {
   "dependencies": [],
   "content_type": "SCENERY",
-  "title": "",
+  "title": "Cenario Salvador",
   "manufacturer": "",
-  "creator": "",
-  "package_version": "0.1.0",
+  "creator": "sergiius",
+  "package_version": "0.0.6",
   "minimum_game_version": "1.10.11",
   "release_notes": {
     "neutral": {
