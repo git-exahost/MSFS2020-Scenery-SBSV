@@ -8883,14 +8883,6 @@
       "date": 132493342995096054
     },
     {
-      "commentary": "Inicio, Navios"
-    },
-    {
-      "path": "scenery/Navios/objects.bgl",
-      "size": 732,
-      "date": 132496773195621004
-    },
-    {
       "commentary": "Inicio, Hotel Pestana"
     },
     {
@@ -12509,35 +12501,30 @@
       "date": 132494248471152486
     },
     {
-      "commentary": "Inicio, Iluminação do Cenário"
+      "commentary": "Inicio, Navios"
     },
     {
-      "path": "scenery/Iluminacao/modelLib.BGL",
-      "size": 56,
-      "date": 132494429468855843
-    },
-    {
-      "path": "scenery/Iluminacao_world/scenery/objects.bgl",
-      "size": 3436,
-      "date": 132494429469296262
+      "path": "scenery/Navios/navios.bgl",
+      "size": 732,
+      "date": 132496773195621004
     },
     {
       "commentary": "Inicio, Ajustes do Cenário"
     },
     {
-      "path": "scenery/AjustesCenario/modelLib.BGL",
-      "size": 56,
-      "date": 132496171641483295
+      "path": "scenery/Iluminacao/iluminacao.bgl",
+      "size": 3436,
+      "date": 132494429469296262
     },
     {
-      "path": "scenery/AjustesCenario/POLYGON.BGL",
-      "size": 5917,
-      "date": 132496709794653429
+      "path": "scenery/Aeroporto/aereporto.bgl",
+      "size": 4700,
+      "date": 132498630453961348
     },
     {
-      "path": "scenery/AjustesCenario/Scenery.bgl",
-      "size": 4828,
-      "date": 132496793255917593
+      "path": "scenery/Bioma/VEGETATION.BGL",
+      "size": 6664,
+      "date": 132498615230484063
     }
 
   ]
