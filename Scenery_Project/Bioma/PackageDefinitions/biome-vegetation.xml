@@ -1,21 +1,20 @@
-<AssetPackage Name="ajustescenario" Version="0.1.0">
+<AssetPackage Name="vegetation-scenery" Version="0.1.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
-		<Title/>
-		<Manufacturer/>
-		<Creator/>
+		<Description>Vegetation</Description>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="aereporto">
+
+		<AssetGroup Name="biome_scenery">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\scene\</AssetDir>
+			<AssetDir>PackageSources\scenery\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>

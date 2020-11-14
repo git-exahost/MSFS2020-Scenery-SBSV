@@ -1,14 +1,9 @@
 {
   "content": [
     {
-      "path": "ContentInfo/navios/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132451965880000000
-    },
-    {
-      "path": "scenery/world/scenery/objects.bgl",
+      "path": "scenery/navios.bgl",
       "size": 732,
-      "date": 132496773195621004
+      "date": 132497915052650977
     }
   ]
 }

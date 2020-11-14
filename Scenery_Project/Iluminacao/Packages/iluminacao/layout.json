@@ -1,24 +1,9 @@
 {
   "content": [
     {
-      "path": "ContentInfo/iluminacao/Thumbnail.jpg",
-      "size": 13520,
-      "date": 132451965880000000
-    },
-    {
-      "path": "manifest.json",
-      "size": 272,
-      "date": 132496789402532608
-    },
-    {
-      "path": "scenery/mycompany/modelLib.BGL",
-      "size": 56,
-      "date": 132496789402006424
-    },
-    {
-      "path": "scenery/world/scenery/objects.bgl",
+      "path": "scenery/iluminacao.bgl",
       "size": 4396,
-      "date": 132496789548956386
+      "date": 132497921562150596
     }
   ]
 }

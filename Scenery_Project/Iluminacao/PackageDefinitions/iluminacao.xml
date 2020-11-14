@@ -10,29 +10,13 @@
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="ContentInfo">
-			<Type>Copy</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageDefinitions\iluminacao\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\iluminacao</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="mymodellib">
-			<Type>ArtProj</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\mycompany\</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="myscene">
+		<AssetGroup Name="iluminacao">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\scene\</AssetDir>
-			<OutputDir>scenery\world/scenery\</OutputDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
