@@ -8,7 +8,6 @@
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-
 		<AssetGroup Name="biome_scenery">
 			<Type>BGL</Type>
 			<Flags>
