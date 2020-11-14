@@ -1,9 +1,14 @@
 {
   "content": [
     {
+      "path": "manifest.json",
+      "size": 272,
+      "date": 132498659182302196
+    },
+    {
       "path": "scenery/VEGETATION.BGL",
-      "size": 6664,
-      "date": 132498615230484063
+      "size": 11114,
+      "date": 132498660547782437
     }
   ]
 }
