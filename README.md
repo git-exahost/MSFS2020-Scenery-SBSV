@@ -39,7 +39,7 @@ Para instalar, baixe o projeto ou o arquivo zipado no link abaixo e copie a past
 C:\Users\[USUARIO_DO_PERFIL_DO_WINDOWS]\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community
 ```
 
-### Notas da versão 0.0.6
+### Notas da versão 0.0.7
 - Ajuste dos galpões nos arredores do aeroporto
 
 ### Notas da versão 0.0.6
